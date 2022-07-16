@@ -1,2 +1,2 @@
 # Introduction
-[Unstable Magick](Unstable)
+[Unstable Magick](Unstable Magick)
