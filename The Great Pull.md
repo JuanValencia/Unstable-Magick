@@ -1,3 +1,5 @@
+_Roll Initiative_
+
 Tell me about your typical day...
 
 As you were ____________________, you suddenly feel the air, as if it were no longer outside you. It tickles your skin and feels as though a static charge were filling the air. 
