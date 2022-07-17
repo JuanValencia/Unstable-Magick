@@ -1,4 +1,5 @@
 positive: The town develops enough to have a basic store
+
 negative: Pixies will trouble you every time you enter / leave the town
 
 1-10
