@@ -8,4 +8,4 @@
 
 [The Landing (Map)](landing.png)
 
-[[landing.png|alt=text]]
+[[img/landing.png|alt=text]]
