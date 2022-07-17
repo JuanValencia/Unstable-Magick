@@ -14,6 +14,14 @@ The Landing (Map)
 ## The Landing
 [Land's End](Land's End)
 
+The Boar's Rest
+
+Riverton
+
+Oceanica
+
+Fishing Settlements
+
 # Links
 
 * [Names](https://www.fantasynamegenerators.com/dnd-elf-names.php)
