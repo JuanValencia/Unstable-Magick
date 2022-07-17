@@ -6,8 +6,4 @@
 
 [Banding Together](Banding Together)
 
-[The Landing (Map)](landing.png)
-
 [[img/landing.png|alt=text]]
-
-[[landing.png]]
