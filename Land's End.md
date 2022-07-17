@@ -6,7 +6,7 @@ As you walk through the woods, you suddenly come upon a clearing where the trees
 ### Rose May (f.Human)
 She seems to be in charge. A youthful red-headed human woman in her middle years, she worked as a innkeepers wife, before she was pulled here. She's friendly and ready to talk your ear off if you let her. She's also super focused on getting the town up to snuff, as she sees it. She can be a bit of a bully.
 
-#### Rumours
+##### Rumours
 Ca, Gronk, Barmond, and Joth needs help
 
 ### Joth WinterBruiser (m.Centaur)
