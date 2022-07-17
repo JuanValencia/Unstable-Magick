@@ -20,12 +20,29 @@ This old dwarf lives on the edge of town as a hermit. He longs to dig, but doesn
 
 ### Other NPC
 Sordar Foreoak (m.Human)
+
 Grez Glen (m.Human)
+
 Pen Virkutsk (m.Human)
+
 Wethri Axeward (f.Human)
+
 Raelie Nightgem (f.Human)
+
 Varoma Zehrithrad (f.Human)
+
 Muirdain Frozenrest (m.Dwarf)
+
 Brandek Broadkind (m.Dwarf)
+
 Tysros Mountainbeard (f.Dwarf)
+
 Karres Drofdert (f.Dwarf)
+
+Sylnelis rapiddreamer (m.Elf)
+
+Aeran mosswalker (m.Elf)
+
+Krisleth nirdii (f.Elf)
+
+Keysatra sishe (f.Elf)
