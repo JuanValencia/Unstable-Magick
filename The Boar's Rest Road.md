@@ -1,0 +1,1 @@
+The road the The Boar's Rest has become hunted by bandits. We need that road clear to ensure the moving of supplies.
