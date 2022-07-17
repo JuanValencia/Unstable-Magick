@@ -10,4 +10,4 @@
 
 [[img/landing.png|alt=text]]
 
-[[wiki/img/landissg.png]]
+[[landing.png]]
