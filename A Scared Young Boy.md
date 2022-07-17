@@ -1,4 +1,4 @@
-Tracks outside the eastern side of the village.
+Tracks outside the eastern side of the village. Needs 3 successful investigations to find, on failure one of the following. Then a successful persuasion or capture. On the latter, he runs away after a few days.
 
 * 20: http://monstercards.ca/5esrd/awakened-shrub
 * 40: http://monstercards.ca/5esrd/hyena
