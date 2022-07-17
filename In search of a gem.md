@@ -1,0 +1,1 @@
+I need a gem for certain magicks. But there's none here. Perhaps in caves up north in the hills?
