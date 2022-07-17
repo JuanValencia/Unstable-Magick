@@ -42,7 +42,7 @@ She's and old lady whose feathers have lost their sheen. One eye is clouded over
 * [A new aerie](A new aerie)
 
 ### Gronk (m.Half-Orc)
-He was a Shaman-in-training, but the Great Pull has him going through an existential crisis. He is throwing himself into his work to ignore what he's going through and secretly bears a crush on Rose. Being alone, and not fully Orc, his commitment to Land's end is replacing the commitment to his people. He bears guilt about this though.
+He was a Shaman-in-training, but the Great Pull has him going through an existential crisis. While he continues to paint his body in the symbols of his clan and ancestors, he wonders sometimes why he bothers. He is throwing himself into his work to ignore what he's going through and secretly bears a crush on Rose. Being alone, and not fully Orc, his commitment to Land's end is replacing the commitment to his people. He bears guilt about this though.
 
 #### Rumours
 * Rose is beautiful (not spoken but evident by mooning)
