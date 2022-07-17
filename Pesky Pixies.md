@@ -1,3 +1,20 @@
+positive: The town develops enough to have a basic store
+negative: Pixies will trouble you every time you enter / leave the town
+
+1-10
+
+* confusion 
+* dancing lights
+* nothing
+* detect thoughts and act accordingly in a fun way
+* dispel magic
+* entangle
+* fly
+* polymorph
+* sleep
+* Attack you invisibly and fly away
+
+
 [https://www.5esrd.com/database/creature/pixie/](Pixies)
 
 Tiny fey, neutral good
@@ -35,3 +52,4 @@ Challenge 1 (200 XP)
 # About
 
 Perhaps the best-known and most elusive of all fey creatures, pixies live in the deepest, most pristine forests, but their insatiable curiosity often leads them far from home. Most pixies stand just over 2 feet tall-though they typically fly about the eye level of creatures they’re conversing with in order to maintain eye contact-and weigh about 30 pounds. Pixies talk quickly and easily become overexcited.
+
