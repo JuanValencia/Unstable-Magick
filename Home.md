@@ -6,4 +6,4 @@
 
 [Banding Together](Banding Together)
 
-![The Landing (Map)](landing.png)
+[The Landing (Map)](landing.png)
