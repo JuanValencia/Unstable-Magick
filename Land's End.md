@@ -11,6 +11,8 @@ She seems to be in charge. A youthful red-headed human woman in her middle years
 * There are other towns forming across The Landing, no one knows anything but I've heard:
 * Something went wrong with the very fabric of magic. Tearing rents in the multiverse.
 * The Gods are punishing us for our pride
+#### Quests
+* [Pesky Pixies](Pesky Pixies)
 
 ### Joth WinterBruiser (m.Centaur)
 A large centaur warrior with dark skin and brown braided weaves of hair that roll down off of his shoulders. He keeps the camp safe from encroaching wildlife. Serious and dour, he watches the stars for signs of what could have possibily happened. The stars being different disturbs him greatly.
