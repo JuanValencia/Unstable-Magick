@@ -7,6 +7,6 @@
 [Banding Together](Banding Together)
 
 ## The Landing (Map)
-[[img/landing.png|alt=text]]
+[[https://juanvalencia.github.io/Unstable-Magick/img/landing.png|alt=text]]
 
 Interesting!
