@@ -11,6 +11,7 @@ She seems to be in charge. A youthful red-headed human woman in her middle years
 * There are other towns forming across The Landing, no one knows anything but I've heard:
 * Something went wrong with the very fabric of magic. Tearing rents in the multiverse.
 * The Gods are punishing us for our pride
+
 #### Quests
 * [Pesky Pixies](Pesky Pixies)
 * [A Scared Young Boy](A Scared Young Boy)
@@ -22,7 +23,8 @@ A large centaur warrior with dark skin and brown braided weaves of hair that rol
 #### Rumours
 * The stars are out of alignment. They are unfamiliar, but they tell of pain, lots of pain
 * Furious that they let an orc in camp, particularly with that taint of evil magic on him.
-* 
+
+
 #### Quests
 * []()
 * []()
@@ -33,6 +35,7 @@ She's and old lady whose feathers have lost their sheen. One eye is clouded over
 
 #### Rumours
 * No-one knows where they landed, what happened to their families, how to go home
+
 #### Quests
 * []()
 * []()
@@ -45,6 +48,7 @@ He was a Shaman-in-training, but the Great Pull has him going through an existen
 * Rose is beautiful (not spoken but evident by mooning)
 * People in town are a bunch of softies, except perhaps Joth, but he doesn't like me much --- and Barmond, but he doesn't like anyone
 * The spirits are wrong here. They are young, not old. It's very confusing.
+
 #### Quests
 * []()
 * []()
@@ -55,6 +59,7 @@ This old dwarf lives on the edge of town as a hermit. He longs to dig, but doesn
 
 #### Rumours
 None, Barmond just stares you down when asked questions.
+
 #### Quests
 * []()
 * []()
