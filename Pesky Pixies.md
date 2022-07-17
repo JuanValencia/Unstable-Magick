@@ -3,16 +3,16 @@ negative: Pixies will trouble you every time you enter / leave the town
 
 1-10
 
-* confusion 
-* dancing lights
-* nothing
-* detect thoughts and act accordingly in a fun way
-* dispel magic
-* entangle
-* fly
-* polymorph
-* sleep
-* Attack you invisibly and fly away
+1. * confusion 
+2. * dancing lights
+3. * nothing
+4. * detect thoughts and act accordingly in a fun way
+5. * dispel magic
+6. * entangle
+7. * fly
+8. * polymorph
+9. * sleep
+10. * Attack you invisibly and fly away
 
 
 [https://www.5esrd.com/database/creature/pixie/](Pixies)
