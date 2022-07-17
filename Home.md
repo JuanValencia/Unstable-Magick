@@ -14,3 +14,7 @@ The Landing (Map)
 ## The Landing
 [Land's End](Land's End)
 
+# Links
+
+[https://www.fantasynamegenerators.com/dnd-elf-names.php](Names)
+[https://www.5esrd.com/database/creature/](Creatures)
