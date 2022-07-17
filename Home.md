@@ -11,7 +11,7 @@ The Landing (Map)
 
 [[https://juanvalencia.github.io/Unstable-Magick/img/landing.png|alt=text]]
 
-## The Landing
+## The Landing Locations
 [Land's End](Land's End)
 
 The Boar's Rest
@@ -20,7 +20,16 @@ Riverton
 
 Oceanica
 
+### Unnamed locations (Players can name)
 Fishing Settlements
+
+The Volcano
+
+The High Lake
+
+The Low Lake
+
+The Hot Mountain
 
 # Links
 
