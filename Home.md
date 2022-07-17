@@ -29,7 +29,11 @@ The High Lake
 
 The Low Lake
 
-The Hot Mountain
+The Hot Lonely Mountain
+
+The Northern Isles
+
+The Southern Isles
 
 # Links
 
