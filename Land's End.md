@@ -26,9 +26,9 @@ A large centaur warrior with dark skin and brown braided weaves of hair that rol
 
 
 #### Quests
-* []()
-* []()
-* []()
+* [Wolves](Wolves)
+* [The Boar's Rest Road](The Boar's Rest Road)
+* [Nighttime Spirit](Nighttime Spirit)
 
 ### Ca (f.Aarakocra)
 She's and old lady whose feathers have lost their sheen. One eye is clouded over, and she misses her children, who didn't get pulled to The Landing. She hopes they're somewhere in Land's End, and would love to go somewhere up in the mountains to live, but doesn't want to go herself. She has a sharp personality and creeps people out.
@@ -37,9 +37,9 @@ She's and old lady whose feathers have lost their sheen. One eye is clouded over
 * No-one knows where they landed, what happened to their families, how to go home
 
 #### Quests
-* []()
-* []()
-* []()
+* [An old Aarakocra's Sorrow](An old Aarakocra's Sorrow)
+* [In search of a gem](In search of a gem)
+* [A new aerie](A new aerie)
 
 ### Gronk (m.Half-Orc)
 He was a Shaman-in-training, but the Great Pull has him going through an existential crisis. He is throwing himself into his work to ignore what he's going through and secretly bears a crush on Rose. Being alone, and not fully Orc, his commitment to Land's end is replacing the commitment to his people. He bears guilt about this though.
@@ -50,10 +50,10 @@ He was a Shaman-in-training, but the Great Pull has him going through an existen
 * The spirits are wrong here. They are young, not old. It's very confusing.
 
 #### Quests
-* []()
-* []()
-* []()
-* 
+* [Winning Rose](Winning Rose)
+* [Finding the dead](Finding the dead)
+* [A Strong Drink](A Strong Drink)
+
 ### Barmond Mafdugiln (m.Dwarf)
 This old dwarf lives on the edge of town as a hermit. He longs to dig, but doesn't have the tools. He can smith but not well, and refuses to try without the right tools. He's cranky and doesn't trust anyone.
 
@@ -61,9 +61,9 @@ This old dwarf lives on the edge of town as a hermit. He longs to dig, but doesn
 None, Barmond just stares you down when asked questions.
 
 #### Quests
-* []()
-* []()
-* []()
+* [Guarded Iron](Guarded Iron)
+* [Prove It](Prove It)
+* [Finding a Mountain](Finding a Mountain)
 
 ### Other NPC
 Sordar Foreoak (m.Human)
