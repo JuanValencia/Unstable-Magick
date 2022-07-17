@@ -1,0 +1,1 @@
+I want a proper place a can set up shop. If ye find one, let me know. Otherwise leave me alone.
