@@ -8,6 +8,7 @@
 
 # Act I
 The Landing (Map)
+
 [[https://juanvalencia.github.io/Unstable-Magick/img/landing.png|alt=text]]
 
 ## The Landing
