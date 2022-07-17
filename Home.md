@@ -20,6 +20,8 @@ Riverton
 
 Oceanica
 
+The Devil's Swamp
+
 ### Unnamed locations (Players can name)
 Fishing Settlements
 
