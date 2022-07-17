@@ -7,3 +7,5 @@
 [Banding Together](Banding Together)
 
 [The Landing (Map)](landing.png)
+
+[[landing.png|alt=text]]
