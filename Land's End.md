@@ -6,8 +6,11 @@ As you walk through the woods, you suddenly come upon a clearing where the trees
 ### Rose May (f.Human)
 She seems to be in charge. A youthful red-headed human woman in her middle years, she worked as a innkeepers wife, before she was pulled here. She's friendly and ready to talk your ear off if you let her. She's also super focused on getting the town up to snuff, as she sees it. She can be a bit of a bully.
 
-##### Rumours
-Ca, Gronk, Barmond, and Joth needs help
+#### Rumours
+* Ca, Gronk, Barmond, and Joth needs help
+* There are other towns forming across The Landing, no one knows anything but I've heard:
+* Something went wrong with the very fabric of magic. Tearing rents in the multiverse.
+* The Gods are punishing us for our pride
 
 ### Joth WinterBruiser (m.Centaur)
 A large centaur warrior with dark skin and brown braided weaves of hair that roll down off of his shoulders. He keeps the camp safe from encroaching wildlife. Serious and dour, he watches the stars for signs of what could have possibily happened. The stars being different disturbs him greatly.
