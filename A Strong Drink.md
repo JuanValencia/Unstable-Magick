@@ -1,0 +1,1 @@
+There's no good place to get a drink around here. perhaps The boar's Rest?
