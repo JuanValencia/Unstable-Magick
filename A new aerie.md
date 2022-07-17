@@ -1,0 +1,1 @@
+There must be a place where we can setup a new aerie? Someplace with a connection the wind. Let me know if you find!
