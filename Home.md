@@ -16,5 +16,5 @@ The Landing (Map)
 
 # Links
 
-[Names](https://www.fantasynamegenerators.com/dnd-elf-names.php)
-[https://www.5esrd.com/database/creature/](Creatures)
+* [Names](https://www.fantasynamegenerators.com/dnd-elf-names.php)
+* [Creatures](https://www.5esrd.com/database/creature/)
