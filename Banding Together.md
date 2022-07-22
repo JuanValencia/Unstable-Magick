@@ -10,10 +10,11 @@ As you find yourself in an empty forrest, what is the first thing you try to do?
 **Get Food:** Gain extra rations (Survival, nature)
 
 **Survival Checks**
-<= 2: Bear
-<= 5: Badgers
-<= 10: lone wolf
-<= 15: injured deer
-<= 20: dead elf (leather jerkin, 20sp, longbow, 14 arrows, ring of warmth (15 perception to spot, 10 arcana to note magical, 15 to identify))
+
+* <= 2: Bear
+* <= 5: Badgers
+* <= 10: lone wolf
+* <= 15: injured deer
+* <= 20: dead elf (leather jerkin, 20sp, longbow, 14 arrows, ring of warmth (15 perception to spot, 10 arcana to note magical, 15 to identify))
 
 
