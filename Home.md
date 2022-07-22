@@ -14,7 +14,7 @@ The Landing (Map)
 ## The Landing Locations
 [Land's End](Land's End)
 
-The Boar's Rest
+[The Boar's Rest](The Boar's Rest)
 
 Riverton
 
