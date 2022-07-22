@@ -5,6 +5,6 @@ As you find yourself in an empty forrest, what is the first thing you try to do?
 
 **Find Others:** Find the location of Land's End
 
-**Build Shelter:** Gain a base of operations outside of Land's End which is more reclusive / safer.
+**Build Shelter:** Gain a base of operations outside of Land's End which is more reclusive / safer, for now.
 
 **Get Food:** Gain extra rations
