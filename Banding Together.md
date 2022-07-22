@@ -9,7 +9,7 @@ As you find yourself in an empty forrest, what is the first thing you try to do?
 
 **Get Food:** Gain extra rations (Survival, nature)
 
-*Survival Checks* 
+**Survival Checks**
 <= 2: Bear
 <= 5: Badgers
 <= 10: lone wolf
