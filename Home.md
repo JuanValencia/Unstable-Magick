@@ -16,11 +16,11 @@ The Landing (Map)
 
 [The Boar's Rest](The Boar's Rest)
 
-Riverton
+[Riverton](Riverton)
 
-Oceanica
+[Oceanica](Oceanica)
 
-The Devil's Swamp
+[The Devil's Swamp](The Devil's Swamp)
 
 ### Unnamed locations (Players can name)
 Fishing Settlements
