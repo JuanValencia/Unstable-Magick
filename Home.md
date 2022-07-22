@@ -6,7 +6,7 @@
 
 [Banding Together](Banding Together)
 
-# Act I (Levels 1-5)
+# Act I ([Levels](Levels) 1-5)
 The Landing (Map)
 
 [[https://juanvalencia.github.io/Unstable-Magick/img/landing.png|alt=text]]
