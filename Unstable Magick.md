@@ -5,3 +5,7 @@
 "The Wizarding Institute for the Study of Enchantments (WISE) has gathered together to construct the first intercity gateway using those font-stones. They meet with the beautiful archmage this afternoon to discuss the details of construction --- Don't worry! I won't bore you with the drudgery! But I will tell you that a few of them were looking a bit green with envy as they jockeyed for who would get to be in the summoning circle!"
 
 ~News from the "Red Bard", Jervis
+
+"Mortimer has shown himself to be far more responsible than our beloved archmage who tends towards too much magic in too many hands -- it will disrupt the social order. WISE would like to recommend that Mortimer begins an audit of all the font-stone projects, with an eye toward more sane policies."
+
+~A joint statement from the WISE elders
