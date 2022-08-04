@@ -7,10 +7,15 @@ It's a normal day for you, what are you doing? [The Great Pull](The Great Pull)
 
 # Characters
 Dhâriyüx: [Dhâriyüx Notes](Dhâriyüx Notes) [(DnDBeyond)](https://www.dndbeyond.com/characters/78433698) 
+
 Eletha: [Eletha Notes](Eletha Notes) [(DnDBeyond)](https://www.dndbeyond.com/characters/79820714)
+
 Jorc: [Jorc Notes](Jorc Notes) [(DnDBeyond)](https://www.dndbeyond.com/characters/80202553)
+
 Salali: [Salali Notes](Salali Notes) [(DnDBeyond)](https://www.dndbeyond.com/characters/78471667)
+
 Velea: [Velea Notes](Velea Notes) [(DnDBeyond)](https://www.dndbeyond.com/characters/78881568)
+
 Ginga?: [Eletha Notes](Eletha Notes) [(DnDBeyond)](https://www.dndbeyond.com/characters/79820714)
 
 # News
