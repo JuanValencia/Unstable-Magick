@@ -16,7 +16,7 @@ Salali: [Salali Notes](Salali Notes) [(DnDBeyond)](https://www.dndbeyond.com/cha
 
 Velea: [Velea Notes](Velea Notes) [(DnDBeyond)](https://www.dndbeyond.com/characters/78881568)
 
-Ginga?: [Eletha Notes](Eletha Notes) [(DnDBeyond)](https://www.dndbeyond.com/characters/79820714)
+Abraham: [Abraham Notes](Abraham Notes) [(DnDBeyond)]()
 
 # News
 
