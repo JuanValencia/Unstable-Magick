@@ -1,9 +1,12 @@
 # World
-You would think that our story starts in the capital city of A'Ethel on the ancient continent of Keyzun. The great font-stones are creating an opportunity for new industry and alongside them, opportunities for the --- less savory. Enchanters and Artificers are driving this new economy. Those who make a living through magic are being drawn by the hundreds. Some have called this the dawn of a new age. There are rumors of course --- but they're just rumors --- of an extensive underground being built where less savory crafts are practiced in the shadows.
+You would think that our story starts in the capital city of [A'Ethel](A'Ethel) on the ancient continent of [Keyzun](Keyzun). The great font-stones are creating an opportunity for new industry and alongside them, opportunities for the --- less savory. Enchanters and Artificers are driving this new economy. Those who make a living through magic are being drawn by the hundreds. Some have called this the dawn of a new age. There are rumors of course --- but they're just rumors --- of an extensive underground being built where less savory crafts are practiced in the shadows.
 
 But that's not where our story starts, because you see, the font-stones --- they did not work like we thought. Roll initiative.
 
 It's a normal day for you, what are you doing? [The Great Pull](The Great Pull)
+
+# Characters
+[Dhâriyüx (dndbeyond)](https://www.dndbeyond.com/characters/78433698) [Dhâriyüx Notes](Dhâriyüx Notes)
 
 # News
 
