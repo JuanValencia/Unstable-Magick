@@ -1,1 +1,3 @@
 I want to use dialog and communication to solve problems and avoid violence and conflict, BUT deep down there's so much anger, frustration, injustince, a sense of never belonging, and a hunger for vengeance that comes out as a firey rage when I lose control (this is not random and chatotic, it's more when I deal with people with whom I cannot reason).
+
+deep personal desire: down the road I'd like to deepen my connection with fire and become somehow imune to it, embrace and comune with fire to use this as the ultimate weapon against the people/person who exterminateed my clan
