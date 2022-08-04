@@ -6,7 +6,7 @@ But that's not where our story starts, because you see, the font-stones --- they
 It's a normal day for you, what are you doing? [The Great Pull](The Great Pull)
 
 # Characters
-[Dhâriyüx (dndbeyond)](https://www.dndbeyond.com/characters/78433698) [Dhâriyüx Notes](Dhâriyüx Notes)
+Dhâriyüx: [DnDBeyond](https://www.dndbeyond.com/characters/78433698) [Dhâriyüx Notes](Dhâriyüx Notes)
 
 # News
 
