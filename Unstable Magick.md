@@ -3,7 +3,7 @@ You would think that our story starts in the capital city of A'Ethel on the anci
 
 But that's not where our story starts, because you see, the font-stones --- they did not work like we thought. Roll initiative.
 
-It's a normal day for you, what are you doing?
+It's a normal day for you, what are you doing? (http://localhost:4567/The%20Great%20Pull)[http://localhost:4567/The%20Great%20Pull]
 
 # News
 
