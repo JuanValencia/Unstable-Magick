@@ -6,15 +6,15 @@ But that's not where our story starts, because you see, the font-stones --- they
 It's a normal day for you, what are you doing? [The Great Pull](The Great Pull)
 
 # Characters
-Dhâriyüx: [Dhâriyüx Notes](Dhâriyüx Notes) [(DnDBeyond)](https://www.dndbeyond.com/characters/78433698) 
+Dhâriyüx: [Dhâriyüx Notes](Dhâriyüx Notes) [(DnDBeyond)](https://www.dndbeyond.com/characters/78433698) (Works in archives, wants an elemental to get revenge over killed clan, anger issues)
 
-Eletha: [Eletha Notes](Eletha Notes) [(DnDBeyond)](https://www.dndbeyond.com/characters/79820714)
+Eletha: [Eletha Notes](Eletha Notes) [(DnDBeyond)](https://www.dndbeyond.com/characters/79820714) (Alara's cousin, given the key to the font-stones and told to run, banished for apparent alliance with orcs)
 
-Jorc: [Jorc Notes](Jorc Notes) [(DnDBeyond)](https://www.dndbeyond.com/characters/80202553)
+Jorc: [Jorc Notes](Jorc Notes) [(DnDBeyond)](https://www.dndbeyond.com/characters/80202553) (Shifter artificer, came to apprentice in capital, has trouble focusing) Needs motive/side
 
-Salali: [Salali Notes](Salali Notes) [(DnDBeyond)](https://www.dndbeyond.com/characters/78471667)
+Salali: [Salali Notes](Salali Notes) [(DnDBeyond)](https://www.dndbeyond.com/characters/78471667) (druid, stolen seed, got involved / trapped with the thieves guild, lying tell)
 
-Velea: [Velea Notes](Velea Notes) [(DnDBeyond)](https://www.dndbeyond.com/characters/78881568)
+Velea: [Velea Notes](Velea Notes) [(DnDBeyond)](https://www.dndbeyond.com/characters/78881568) (? Visiting capital, left loved ones behind, sad, reserved, honorable)
 
 Abraham: [Abraham Notes](Abraham Notes) [(DnDBeyond)]()
 
