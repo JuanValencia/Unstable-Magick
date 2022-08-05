@@ -14,9 +14,9 @@ Jorc: [Jorc Notes](Jorc Notes) [(DnDBeyond)](https://www.dndbeyond.com/character
 
 Salali: [Salali Notes](Salali Notes) [(DnDBeyond)](https://www.dndbeyond.com/characters/78471667) (druid, stolen seed, got involved / trapped with the thieves guild, lying tell)
 
-Velea: [Velea Notes](Velea Notes) [(DnDBeyond)](https://www.dndbeyond.com/characters/78881568) (? Visiting capital, left loved ones behind, sad, reserved, honorable)
+Velea: [Velea Notes](Velea Notes) [(DnDBeyond)](https://www.dndbeyond.com/characters/78881568) (? Visiting capital, left loved ones behind, sad, reserved, honorable) Needs motive/side
 
-Abraham: [Abraham Notes](Abraham Notes) [(DnDBeyond)]()
+Abraham: [Abraham Notes](Abraham Notes) [(DnDBeyond)]() (Order chaos twin, must stop brother Zachariah)
 
 # News
 
