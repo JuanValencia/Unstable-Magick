@@ -1,1 +1,13 @@
-The road the The Boar's Rest has become hunted by bandits. We need that road clear to ensure the moving of supplies.
+The road the The Boar's Rest has become hunted by grungs. We need that road clear to ensure the moving of supplies. 8 medium, 2 grungs + 1 elite grung, 3 grung wildlings are guiding the grungs to attack --- one as written, one which exchanges spike trap for spitting poison (orange), one which is spitting poison (purple)
+
+Blue Grung. The poisoned creature must make a loud noise at the start and end of its turn.
+
+Gold Grung. The creature is charmed by the grung and can speak Grung.
+
+Green Grung. The poisoned creature can’t move except to climb or make standing jumps. If the creature is flying, it can’t take any actions or reactions unless it lands.
+
+Orange Grung. The poisoned creature is frightened of its allies.
+
+Purple Grung. The poisoned creature feels a desperate need to soak itself in liquid or mud. It can’t take actions or move except to do so or to reach a body of liquid or mud.
+
+Red Grung. The poisoned creature must use its action to eat if food is within reach.
