@@ -5,11 +5,23 @@ As you approach the village the road grows wider and more well trodden, compared
 ## Villagers
 
 ### Sam Wiseman (M, Elder)
+#### Rumors
+#### Quests
 ### Elfire Sunmouse (F, Adventurer)
+#### Rumors
+#### Quests
 ### Lin Smoothblossom (F, Layabout, flirty)
+#### Rumors
+#### Quests
 ### Barzor Silentfeet (M, Rogue Hunter)
-### Sanhorn Rivermantle (M, Works the Lumberyard)
+#### Rumors
+#### Quests
+### Sanhorn Rivermantle (M, Works the Lumberyard, trades in tasks)
+#### Rumors
+#### Quests
 ### Xanola fernspell (F, Runs an apothacary, trades in tasks)
+#### Rumors
+#### Quests
 
 ## Others
 
