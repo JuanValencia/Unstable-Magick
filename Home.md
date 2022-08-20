@@ -42,3 +42,4 @@ The Southern Isles
 * [Names](https://www.fantasynamegenerators.com/dnd-elf-names.php)
 * [Creatures](https://www.5esrd.com/database/creature/)
 * [Maps](https://watabou.itch.io/)
+* [Encounters] (https://koboldplus.club/)
