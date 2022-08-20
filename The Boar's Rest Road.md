@@ -1,3 +1,5 @@
+As you walk along the path you note that the terrain is getting hilly and starting to rise. The forrest thins out just a little bit and turns more deciduous. There are many rivulets criss-crossing along the sides of the path and throughout the woods. Distantly, you can hear the sounds of a river somewhere.
+
 The road the The Boar's Rest has become hunted by grungs. We need that road clear to ensure the moving of supplies. 8 medium, 2 grungs + 1 elite grung, 3 grung wildlings are guiding the grungs to attack --- one as written, one which exchanges spike trap for spitting poison (orange), one which is spitting poison (purple)
 
 Blue Grung (artisan, 11-14). The poisoned creature must make a loud noise at the start and end of its turn.
