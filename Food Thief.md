@@ -7,4 +7,4 @@ Tracking, baiting, etc to find:
 
 --- Druid and Owlbear Fight
 
-See (Wolves)[Wolves]
+See [Wolves](Wolves)
