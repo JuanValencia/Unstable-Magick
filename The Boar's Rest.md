@@ -38,7 +38,7 @@ As you approach the village the road grows wider and more well trodden, compared
 ### Barzor Silentfeet (M, Rogue Hunter, serious, take charge, proud)
 #### Rumors
 #### Quests
-* (Ring of Swimming)
+* [An understanding]()(Ring of Swimming)
 
 ### Sanhorn Rivermantle (M, Works the Lumberyard, trades in tasks, busy, distracted, short, broad, brown eye/hair)
 #### Rumors
