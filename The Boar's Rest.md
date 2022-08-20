@@ -16,6 +16,7 @@ As you approach the village the road grows wider and more well trodden, compared
 * If you follow the river you'll reach a large lake in the mountains. I hear it's beautful, but dangerous
 * I think we're on a giant island, or perhaps a peninsula.  We haven't gotten too far, but if you go east enough, you'll get to the water eventually, and from the mountains, you can see the North shore.  We haven't been south too far, but I suspect people in Land's end will go southward eventually. As far as I know it's all forrest down there.
 * Morgoth is quiet, but I value his wisdom and friendship
+
 #### Quests
 * Talk to the people in town
 * We lost contact with the mines to the North, we need iron, even just a little for construction and weapons!
