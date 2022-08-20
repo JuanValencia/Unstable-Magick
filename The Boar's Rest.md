@@ -6,6 +6,9 @@ As you approach the village the road grows wider and more well trodden, compared
 
 ### Sam Wiseman (M, Elder)
 #### Rumors
+* I can always count on Elfi. She has a good head on her shoulders, me I just listen to peoples problems
+* Lin's no end of troubles, almost everybody has gotten entangled in one of her schemes
+* Barzor
 #### Quests
 ### Elfire Sunmouse (F, Adventurer)
 #### Rumors
@@ -31,3 +34,10 @@ As you approach the village the road grows wider and more well trodden, compared
 * Vinbin Littledance (F, Gatherer)
 * Quinn Whisperwood (F, Gatherer)
 * Wen TallEyes (M, Gatherer)
+* Corras fatleaf (M Guard)
+* Lin longcloak (F Guard)
+* Corky summerblossom (F Guard)
+* Garvon barleyspirit (M Guard)
+* Cormin grandfound (M Guard)
+* Yennes reedheart (F Guard)
+* Erpher earthmane (M Guard)
