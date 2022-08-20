@@ -50,8 +50,8 @@ As you approach the village the road grows wider and more well trodden, compared
 #### Rumors
 
 #### Quests
-* (Wand of Magic Missile)
-* (Wand of Magic Detection)
+* Poison vials from snakes in the lake in the mountains (Wand of Magic Missile)
+* (Font-stone Wand of Magic Detection, failing at a 10% rate [Unstable](Unstable))
 
 ### Morgath (M, Loxodon, Monk)
 #### Rumors
