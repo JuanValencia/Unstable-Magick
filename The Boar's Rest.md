@@ -27,13 +27,13 @@ As you approach the village the road grows wider and more well trodden, compared
 #### Rumors
 
 #### Quests
-* ([Smiling Cards](Smiling Cards))
+* [Orcs in the Hills](Orcs in the Hills) ([Smiling Cards](Smiling Cards))
 
 ### Lin Smoothblossom (F, Layabout, flirty, pretty blond)
 #### Rumors
 
 #### Quests
-* (Wand of Secrets)
+* [Lin's Secrets](Lin's Secrets) (Wand of Secrets)
 
 ### Barzor Silentfeet (M, Rogue Hunter, serious, take charge, proud)
 #### Rumors
