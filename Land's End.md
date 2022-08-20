@@ -12,7 +12,7 @@ She seems to be in charge. A youthful red-headed human woman in her middle years
 * Something went wrong with the very fabric of magic. Tearing rents in the multiverse.
 * The Gods are punishing us for our pride
 
-#### Quests
+#### Quests (Lock of Trickery)
 * [Pesky Pixies](Pesky Pixies)
 * [A Scared Young Boy](A Scared Young Boy)
 * [Food Thief](Food Thief)
@@ -25,7 +25,7 @@ A large centaur warrior with dark skin and brown braided weaves of hair that rol
 * Furious that they let an orc in camp, particularly with that taint of evil magic on him.
 
 
-#### Quests
+#### Quests (Moon Touched Battle-Axe)
 * [Wolves](Wolves)
 * [The Boar's Rest Road](The Boar's Rest Road)
 * [Nighttime Spirit](Nighttime Spirit)
@@ -36,7 +36,7 @@ She's and old lady whose feathers have lost their sheen. One eye is clouded over
 #### Rumours
 * No-one knows where they landed, what happened to their families, how to go home
 
-#### Quests
+#### Quests (Clockwork Amulet)
 * [An old Aarakocra's Sorrow](An old Aarakocra's Sorrow)
 * [In search of a gem](In search of a gem)
 * [A new aerie](A new aerie)
@@ -49,7 +49,7 @@ He was a Shaman-in-training, but the Great Pull has him going through an existen
 * People in town are a bunch of softies, except perhaps Joth, but he doesn't like me much --- and Barmond, but he doesn't like anyone
 * The spirits are wrong here. They are young, not old. It's very confusing.
 
-#### Quests
+#### Quests (Wooden Shield of Expression)
 * [Winning Rose](Winning Rose)
 * [Finding the dead](Finding the dead)
 * [A Strong Drink](A Strong Drink)
@@ -60,7 +60,7 @@ This old dwarf lives on the edge of town as a hermit. He longs to dig, but doesn
 #### Rumours
 None, Barmond just stares you down when asked questions.
 
-#### Quests
+#### Quests (Armor of Gleaming)
 * [Guarded Iron](Guarded Iron)
 * [Prove It](Prove It)
 * [Finding a Mountain](Finding a Mountain)
