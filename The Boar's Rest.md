@@ -19,31 +19,43 @@ As you approach the village the road grows wider and more well trodden, compared
 
 #### Quests
 * Talk to the people in town
-* We lost contact with the mines to the North, we need iron, even just a little for construction and weapons!
+* There are bandits in the woods, please get rid of them (Sword of Vengeance from bandit leader, "Thirsty")
+* We lost contact with the mines to the North, we need iron, even just a little for construction and weapons! (Gold)
 * There are bands of druids in the woods that make no end of trouble. We've heard of one with wolves, one with bears, one with walking trees, and apes! [Druids](Druids)
 
 ### Elfire Sunmouse (F, Adventurer, black haired, scarred, course)
 #### Rumors
+
 #### Quests
+* ([Smiling Cards](Smiling Cards))
 
 ### Lin Smoothblossom (F, Layabout, flirty, pretty blond)
 #### Rumors
+
 #### Quests
+* (Wand of Secrets)
 
 ### Barzor Silentfeet (M, Rogue Hunter, serious, take charge, proud)
 #### Rumors
 #### Quests
+* (Ring of Swimming)
 
 ### Sanhorn Rivermantle (M, Works the Lumberyard, trades in tasks, busy, distracted, short, broad, brown eye/hair)
 #### Rumors
+
 #### Quests
+* (Oil of slipperiness)
 
 ### Xanola fernspell (F, Runs an apothacary, trades in tasks, beautiful enchanting, cold)
 #### Rumors
+
 #### Quests
+* (Wand of Magic Missile)
+* (Wand of Magic Detection)
 
 ### Morgath (M, Loxodon, Monk)
 #### Rumors
+
 #### Quests
 
 ## Others
