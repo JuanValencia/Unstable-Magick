@@ -1,0 +1,3 @@
+A Deck of cards with smiling animals (Mouse, Hummingbird, bat, rat, lizard, dog, cat, chicken, bear, moose, deer, turtle, giraffe, owlbear, bugbear, baby gold dragon).
+
+Upon throwing the card to the ground, an illusion of said animal comes into existence and lasts for 1 minute. Each one is stunningly real, but has a strangely plastic smile upon their face and makes no sound. The animal's mood and actions reflect the mood of the person who throws the card (confident, scared, etc), but the smile remains fixed on their face.
