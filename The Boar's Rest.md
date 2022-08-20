@@ -38,13 +38,13 @@ As you approach the village the road grows wider and more well trodden, compared
 ### Barzor Silentfeet (M, Rogue Hunter, serious, take charge, proud)
 #### Rumors
 #### Quests
-* [An understanding]()(Ring of Swimming)
+* [Grung Understanding](Grung Understanding)(Ring of Swimming)
 
 ### Sanhorn Rivermantle (M, Works the Lumberyard, trades in tasks, busy, distracted, short, broad, brown eye/hair)
 #### Rumors
 
 #### Quests
-* (Oil of slipperiness)
+* [Oils](Oils) (Trades Oils)
 
 ### Xanola fernspell (F, Runs an apothacary, trades in tasks, beautiful enchanting, cold)
 #### Rumors
