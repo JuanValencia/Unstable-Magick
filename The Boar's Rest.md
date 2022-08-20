@@ -8,8 +8,12 @@ As you approach the village the road grows wider and more well trodden, compared
 #### Rumors
 * I can always count on Elfi. She has a good head on her shoulders, me I just listen to peoples problems
 * Lin's no end of troubles, almost everybody has gotten entangled in one of her schemes
-* Barzor
+* Barzor coordinates the guard. These woods haven't been our friends.
+* Sanhorn, at the lumberyard has been having trouble in the woods lately, our ability to get housing for everyone has suffered.
+* Xanola's our hedge doctor if you need any help along those lines.
+* Other people have come, but most have moved on. Apparently too many halflings in one place weirds them out <Shrug>
 #### Quests
+* Talk to the people in twon
 ### Elfire Sunmouse (F, Adventurer)
 #### Rumors
 #### Quests
