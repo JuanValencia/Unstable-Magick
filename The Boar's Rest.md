@@ -12,21 +12,24 @@ As you approach the village the road grows wider and more well trodden, compared
 * Sanhorn, at the lumberyard has been having trouble in the woods lately, our ability to get housing for everyone has suffered.
 * Xanola's our hedge doctor if you need any help along those lines.
 * Other people have come, but most have moved on. Apparently too many halflings in one place weirds them out <Shrug>
+* 
 #### Quests
-* Talk to the people in twon
-### Elfire Sunmouse (F, Adventurer)
+* Talk to the people in town
+* We lost contact with the mines to the North, we need iron, even just a little for construction and weapons!
+* 
+### Elfire Sunmouse (F, Adventurer, black haired, scarred, course)
 #### Rumors
 #### Quests
-### Lin Smoothblossom (F, Layabout, flirty)
+### Lin Smoothblossom (F, Layabout, flirty, pretty blond)
 #### Rumors
 #### Quests
-### Barzor Silentfeet (M, Rogue Hunter)
+### Barzor Silentfeet (M, Rogue Hunter, serious, take charge, proud)
 #### Rumors
 #### Quests
-### Sanhorn Rivermantle (M, Works the Lumberyard, trades in tasks)
+### Sanhorn Rivermantle (M, Works the Lumberyard, trades in tasks, busy, distracted, short, broad, brown eye/hair)
 #### Rumors
 #### Quests
-### Xanola fernspell (F, Runs an apothacary, trades in tasks)
+### Xanola fernspell (F, Runs an apothacary, trades in tasks, beautiful enchanting, cold)
 #### Rumors
 #### Quests
 
