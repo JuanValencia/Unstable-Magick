@@ -51,7 +51,7 @@ As you approach the village the road grows wider and more well trodden, compared
 
 #### Quests
 * Poison vials from snakes in the lake in the mountains (Wand of Magic Missile)
-* (Font-stone Wand of Magic Detection, failing at a 10% rate [Unstable](Unstable))
+* Sick of this thing: (Font-stone Wand of Magic Detection 10, failing at a 10% rate [Unstable](Unstable))
 
 ### Morgath (M, Loxodon, Monk)
 #### Rumors
