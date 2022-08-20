@@ -1,0 +1,3 @@
+This wooden staff is decorated with bird carvings. It has 4 charges. While holding it, you can use an action to expend 1 charge from the staff and cause it to create one of the following sounds out to a range of 60 feet: a cat's hiss, a dog's growl, a bear's roar, or a distant dragon roar.
+
+The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff explodes in a harmless cloud of bird feathers and is lost forever.
