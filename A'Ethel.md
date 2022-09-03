@@ -1,0 +1,1 @@
+The capital city of A'Ethel is the cultural center of the empire. In this time of peace and prosperity, A'Ethel has been a fountain of innovation and invention, leading us into the dawn of a new golden age.
