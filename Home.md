@@ -9,7 +9,7 @@
 # Act I ([Levels](Levels) 1-5)
 The Landing (Map)
 
-[[https://juanvalencia.github.io/Unstable-Magick/img/landing.png|alt=text]]
+[[https://juanvalencia.github.io/Unstable-Magick/img/landing.png]]
 
 ## The Landing Locations
 [Land's End](Land's End)
