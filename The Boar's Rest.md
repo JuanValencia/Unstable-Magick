@@ -2,6 +2,8 @@
 
 As you approach the village the road grows wider and more well trodden, compared to Land's End, this settlement is not much bigger, but it seems as though people live here. There are a few new cottages that look well built, and the people do not look as haggard. However, as you get closer still, you notice that the people are rather short. They are all halflings.
 
+[[https://juanvalencia.github.io/Unstable-Magick/img/boarsrest.jpg|alt=text]]
+
 ## Villagers
 
 ### Sam Wiseman (M, Elder, Amiable, likes to chat, host visitors)
