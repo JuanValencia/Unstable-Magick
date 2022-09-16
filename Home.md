@@ -22,6 +22,8 @@ The Landing (Map)
 
 [The Devil's Swamp](The Devil's Swamp)
 
+[[The Unnamed Desert]]
+
 ### Unnamed locations (Players can name)
 Fishing Settlements
 
