@@ -7,14 +7,25 @@ A pristine lake at the foot a snow capped mountain the borders the active volcan
 Ruak, the only survivor of a recent raid, is now clan chief. He speaks for the clan and everyone defers to him, though he recognizes Eletha. The live a nomadic lifestyle, sleeping in a warren of caves on the mountain.
 
 Ruak
+
 Spilge
+
 Snog-f
+
 Yroh-f
+
 Slog
+
 Wurtguth
+
 Grukk
+
 Wraog-f
+
 Yugug
+
 Smegugh-f
+
 Naguk-f
+
 ... and others
