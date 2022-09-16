@@ -27,7 +27,7 @@ Fishing Settlements
 
 The Volcano
 
-The High Lake
+[[The High Lake]]
 
 The Low Lake
 
