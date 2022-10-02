@@ -1,1 +1,1 @@
-A town of mostly elves trying to escape the weirdness
+A town of mostly elves trying to escape the weirdness. They've been here about 1 year.
