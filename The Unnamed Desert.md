@@ -9,22 +9,22 @@ The dwarves have been here for almost 10 years. In their time, they have built i
 Quests
 * He is looking to make a 'Gem of the elements', but needs raw crystals of a multitude of varieties. He also needs some source of power, like what's found in the font-stones, but doesn't know how to make them.
 
-Gog Marbleview (M)
+### Gog Marbleview (M)
 
-Snar Minecloak (M)
+### Snar Minecloak (M)
 
-Liggy Windtank (F)
+### Liggy Windtank (F)
 
-Luna Plateblade (F)
+### Luna Plateblade (F)
 
-Umi Aleforged (F)
+### Umi Aleforged (F)
 
-Singron Platehand (F)
+### Singron Platehand (F)
 
-Glorizerlig Emberpike (F)
+### Glorizerlig Emberpike (F)
 
-Ustred Oakforge (M)
+### Ustred Oakforge (M)
 
-Erik Whitbrand (M)
+### Erik Whitbrand (M)
 
 ... and many more
