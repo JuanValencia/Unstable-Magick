@@ -22,14 +22,14 @@ The Landing (Map)
 
 [The Devil's Swamp](The Devil's Swamp)
 
-[[The Unnamed Desert]]
+[The Unnamed Desert](The Unnamed Desert)
 
 ### Unnamed locations (Players can name)
 Fishing Settlements
 
 The Volcano
 
-[[The High Lake]]
+[The High Lake](The High Lake)
 
 The Low Lake
 
