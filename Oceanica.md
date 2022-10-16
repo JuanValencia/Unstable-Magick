@@ -3,7 +3,12 @@ A town of mostly elves trying to escape the weirdness. They've been here about 1
 People
 
 
-Elazumin stillcloud (m)
+## Villagers
+
+### Elazumin stillcloud (m)
+#### Rumors
+#### Quests
+
 Caizorwyn starcrown (f)
 Adjeon nightspirit (m)
 Biwenys firfall (f)
