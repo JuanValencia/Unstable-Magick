@@ -1,26 +1,50 @@
 A town of mostly humans. Some have been here almost 20 years (some even born here!), some have been here for just a few weeks.
 The settlement is booming however and there are kids everywhere. There are farms, a blacksmith, armormer, shops of various sorts.
 
-Bojana Men
+### Boj Men (m)
+#### Rumors
+#### Quests
 
-Alhertine Ironstone
+### Albert Ironstone (m)
+#### Rumors
+#### Quests
 
-Doreen Efne Ragesong
+### Doreen Efne Ragesong (f)
+#### Rumors
+#### Quests
 
-Tess Erandan
+### Tess Erandan (f)
+#### Rumors
+#### Quests
 
-Derrek Jonno
+### Derrek Jonno (m)
+#### Rumors
+#### Quests
 
-Alfonsine Hihna Sag
+### Alfonsine Hihna Sag (f)
+#### Rumors
+#### Quests
 
-Selby Lurree Frostblade
+### Selby Lurree Frostblade (f)
+#### Rumors
+#### Quests
 
-Gilon Shanin
+### Gilon Shanin (m)
+#### Rumors
+#### Quests
 
-Ircirda Nie
+### Ircirda Nie (f)
+#### Rumors
+#### Quests
 
-Reese Tururnya
+### Reese Tururnya (m)
+#### Rumors
+#### Quests
 
-Cherise Chuzras Siltuhr
+### Cherise Chuzras Siltuhr (f)
+#### Rumors
+#### Quests
 
-Ratna Chofa Vaprikt
+### Ratna Chofa Vaprikt (m)
+#### Rumors
+#### Quests
