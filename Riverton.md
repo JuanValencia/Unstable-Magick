@@ -10,34 +10,42 @@ The settlement is booming however and there are kids everywhere. There are farms
 * We're self sufficient, so we don't really trade with anyone other than the fishing villages. More trouble than it's worth.
 * The swamp nearby is filled with vicious critters. Rumors tell of one vicious drow who wears fire as a cloak and carries a burning trident. I fear for what that portends.
 #### Quests
+* Monsters at the farms
+* (Later) - Gilon is causing problems, quietly take him out.
 
-### Albert Ironstone (m)
+### Albert Ironstone (m) - Blacksmith, quiet
+#### Rumors
+#### Quests
+* Need a mage partner
+
+### Doreen Efne Ragesong (f) - General Store, bubbly
+#### Rumors
+#### Quests
+* Trade routes
+
+### Tess Erandan (f) - mill - friendly
+#### Rumors
+#### Quests
+* Find a way to make the farms more productive (beyond monsters)
+
+### Derrek Jonno (m) - farm 1
 #### Rumors
 #### Quests
 
-### Doreen Efne Ragesong (f)
+### Alfonsine Hihna Sag (f) - farm 2
 #### Rumors
 #### Quests
 
-### Tess Erandan (f)
+### Selby Lurree Frostblade (f) farm 3
 #### Rumors
 #### Quests
 
-### Derrek Jonno (m)
+### Gilon Shanin (m)- chaotic evil - Young & Handsome aspiring politician
 #### Rumors
 #### Quests
-
-### Alfonsine Hihna Sag (f)
-#### Rumors
-#### Quests
-
-### Selby Lurree Frostblade (f)
-#### Rumors
-#### Quests
-
-### Gilon Shanin (m)
-#### Rumors
-#### Quests
+* Find dirt on Boj (there really isn't any)
+* Help me gain campaign finances (to use on himself)
+* Extortion from the farms ("Guiding" monsters)
 
 ### Ircirda Nie (f)
 #### Rumors
