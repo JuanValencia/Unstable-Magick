@@ -10,7 +10,7 @@ The settlement is booming however and there are kids everywhere. There are farms
 * We're self sufficient, so we don't really trade with anyone other than the fishing villages. More trouble than it's worth.
 * The swamp nearby is filled with vicious critters. Rumors tell of one vicious drow who wears fire as a cloak and carries a burning trident. I fear for what that portends.
 #### Quests
-* Monsters at the farms
+* (Monsters at the Farms)[Monsters at the Farms]
 * (Later) - Gilon is causing problems, quietly take him out.
 
 ### Albert Ironstone (m) - Blacksmith, quiet
