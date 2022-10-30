@@ -21,7 +21,7 @@ The settlement is booming however and there are kids everywhere. There are farms
 ### Doreen Efne Ragesong (f) - General Store, bubbly
 #### Rumors
 #### Quests
-* Trade routes
+* Trade routes (15% discount at all riverton stores)
 
 ### Tess Erandan (f) - mill - friendly
 #### Rumors
