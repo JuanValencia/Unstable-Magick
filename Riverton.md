@@ -15,8 +15,11 @@ The settlement is booming however and there are kids everywhere. There are farms
 
 ### Albert Ironstone (m) - Blacksmith, quiet
 #### Rumors
+* I hear there's a blacksmith of some skill that landed in Land's End, the new place in the dense woods. I bet it's all hogwash... [sweating]
+* The halflings used to have iron coming down to us, but it dried up awhile ago.
+
 #### Quests
-* Need a mage partner
+* Need a mage partner (Magic Gear, 1 comissioned piece)
 
 ### Doreen Efne Ragesong (f) - General Store, bubbly
 #### Rumors
@@ -25,6 +28,8 @@ The settlement is booming however and there are kids everywhere. There are farms
 
 ### Tess Erandan (f) - mill - friendly
 #### Rumors
+* There's trouble at the farms. Even if we could clear it, we aren't producing enough
+* Bugs as big as dogs, and horrors that I can't even begin to describe with beaks and giant bone claws.
 #### Quests
 * Find a way to make the farms more productive (beyond monsters) (50% of on provisions)
 
@@ -47,18 +52,28 @@ The settlement is booming however and there are kids everywhere. There are farms
 * Help me gain campaign finances (to use on himself)
 * Extortion from the farms ("Guiding" monsters)
 
-### Ircirda Nie (f)
+### Seely Nai (f) Town hedge-doctor. Quiet, friendly, awkward socially. Blonde haired, blue eyed, shorter. Sells bandages, herbs, etc
 #### Rumors
 #### Quests
 
-### Reese Tururnya (m)
+### Reese Tururnya (m) kid in the streets, go lucky redheaded boy
 #### Rumors
+* I hear that Gilon has it in for Boj, but you didn't hear it from me.
+* I think Gilon's cool. He makes more sense than old Boj
 #### Quests
 
-### Cherise Chuzras Siltuhr (f)
+### Cherise Chuzras Siltuhr (f) - Tavern owner, broad and stocky. She's rough and has a harsh tongue, Black haired
 #### Rumors
+* There's evil things in the swamps. Tatooed dark elves that will freak you out and give you nightmares.
+* We've had some long standing trade with the fishing villages. They're small, but it's a good source of meat, especially in winter.
+* South of the swamps is a desert. There's [A Lonely Mountain](A Lonely Mountain) there. I've heard it told that there's dwarves in that mountain, but if they are, I've never seen them
+* One of the fishing villages to the East is right by a whole slew of offshore islands. I'm not sure what's out there, but I'm curious.
+* I hear tell of druids with monsters at their heels in the forrest.
+* Some people who've gone North tell of druids in the mountains.
 #### Quests
 
-### Ratna Chofa Vaprikt (m)
+### Ratna Chofa Vaprikt (m) - Armorer
+* I hear there's a blacksmith of some skill that landed in Land's End, the new place in the dense woods. I bet it's all hogwash... [sweating]
 #### Rumors
 #### Quests
+* Need a mage partner (Magic Gear, 1 comissioned piece)
