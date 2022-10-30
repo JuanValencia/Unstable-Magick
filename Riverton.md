@@ -26,7 +26,7 @@ The settlement is booming however and there are kids everywhere. There are farms
 ### Tess Erandan (f) - mill - friendly
 #### Rumors
 #### Quests
-* Find a way to make the farms more productive (beyond monsters)
+* Find a way to make the farms more productive (beyond monsters) (50% of on provisions)
 
 ### Derrek Jonno (m) - farm 1
 #### Rumors
