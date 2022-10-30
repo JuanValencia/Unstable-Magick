@@ -11,13 +11,13 @@ A town of mostly elves trying to escape the weirdness. They've been here about 1
 * Brynnia is older than any of us and wise, though a bit aloof.
 
 #### Quests
-* A trade treaty with the other tows would be helpful, but we are almost too proud to admit it. Perhaps you can help me gain support?
+* A trade treaty with the other towns would be helpful, but we are almost too proud to admit it. Perhaps you can help me gain support? I'd make it worth your while (100gp, or a few magical scrolls)
 * We have found a trove of sorts out in the water. Talk to Wynn, our feast-warden
 
 ### Wynn starcrown (f) - feast-warden, shorter than most, twinkle in her blue eyes. -- Half human?
 #### Rumors
 #### Quests
-* I'm looking for new recipes. Perhaps you can get some interesting ones from the places you've visisted?
+* I'm looking for new recipes. Perhaps you can get some interesting ones from the places you've visisted? I happen to be good at coming up with new things. If you share a recipe and I discover something new, I'll share for a significant discount.
 
 ### Adjeon nightspirit (m), Peg-legged, scalywag, bronze - red headed, blue eyed. Loves the sea
 #### Rumors
