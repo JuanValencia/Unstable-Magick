@@ -9,7 +9,7 @@
 # Act I ([Levels](Levels) 1-5)
 The Landing (Map)
 
-[[https://juanvalencia.github.io/Unstable-Magick/img/landing.png]]
+[<img src="https://juanvalencia.github.io/Unstable-Magick/img/landing.png">]
 
 # Act II ([Levels](Levels) 6-10)
 
