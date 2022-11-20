@@ -13,7 +13,7 @@ The Landing (Map)
 
 # Act II ([Levels](Levels) 6-10)
 
-[[https://juanvalencia.github.io/Unstable-Magick/img/Keyzun1.jpg]]
+[<img src="https://juanvalencia.github.io/Unstable-Magick/img/Keyzun1.jpg">]
 
 ## The Landing Locations
 [Land's End](Land's End)
