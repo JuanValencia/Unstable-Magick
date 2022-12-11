@@ -9,7 +9,7 @@
 * 2 potions of healing (2d4 + 2)
 * [Staff of growl](Staff of growl)
 * Scroll of Wild Cunning (x2)
-* Cursed potion of flying (grows feathers)
+* Cursed [potion of flying](https://roll20.net/compendium/dnd5e/Potion%20of%20Flying#content) (grows feathers)
 
 3. Druid + awakened [tree](https://www.dndbeyond.com/monsters/16792-awakened-tree) (2) and [shrubs](https://www.dndbeyond.com/monsters/16791-awakened-shrub) (2)
 * 2 potions of healing (2d4 + 2)
