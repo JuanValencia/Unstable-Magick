@@ -1,3 +1,3 @@
-This wooden staff is decorated with animal carvings. It has 4 charges. While holding it, you can use an action to expend 1 charge from the staff and cause it to create one of the following sounds out to a range of 60 feet: a cat's hiss, a dog's growl, a bear's roar, or a distant dragon roar.
+This wooden staff is decorated with animal carvings. It has 4 charges. While holding it, you can use an action to expend 1 charge from the staff and cause it to create one of the following sounds out to a range of 60 feet: a cat's purr, a dog's wag, a bear's snuffle, or a distant giant's humming.
 
 The staff regains 1d4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1-5, the staff transmorphs into a [Staff of growl](Staff of growl).
