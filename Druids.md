@@ -13,7 +13,7 @@
 
 3. Druid + awakened [tree](https://www.dndbeyond.com/monsters/16792-awakened-tree) (2) and [shrubs](https://www.dndbeyond.com/monsters/16791-awakened-shrub) (2)
 * 2 potions of healing (2d4 + 2)
-* Wand of Scowls
+* [Wand of Scowls](http://dnd5e.wikidot.com/wondrous-items:wand-of-scowls)
 * Scroll of Mold Earth (x2)
 * Cursed armbands (constant movement, 2 armor)
 
