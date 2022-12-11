@@ -11,7 +11,7 @@
 * Scroll of Wild Cunning (x2)
 * Cursed potion of flying (grows feathers)
 
-3. Druid + awakened tree (2) and shrubs (2)
+3. Druid + awakened [tree](https://www.dndbeyond.com/monsters/16792-awakened-tree) (2) and [shrubs](https://www.dndbeyond.com/monsters/16791-awakened-shrub) (2)
 * 2 potions of healing (2d4 + 2)
 * Wand of Scowls
 * Scroll of Mold Earth (x2)
