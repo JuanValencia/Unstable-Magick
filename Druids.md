@@ -15,7 +15,7 @@
 * 2 potions of healing (2d4 + 2)
 * [Wand of Scowls](http://dnd5e.wikidot.com/wondrous-items:wand-of-scowls)
 * Scroll of Mold Earth (x2)
-* Cursed armbands (constant movement, 2 armor)
+* Cursed [Bracers of Armor](https://www.dandwiki.com/wiki/SRD:Bracers_of_Armor) (constant movement, 2 armor)
 
 4. Druid + [Apes](https://roll20.net/compendium/dnd5e/Ape#content) (4) - [Giant Ape](https://roll20.net/compendium/dnd5e/Giant%20Ape#content)
 * 2 potions of healing (2d4 + 2)
