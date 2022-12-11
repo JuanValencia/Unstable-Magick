@@ -17,7 +17,7 @@
 * Scroll of Mold Earth (x2)
 * Cursed armbands (constant movement, 2 armor)
 
-4. Druid + Apes (4)
+4. Druid + [Apes](https://roll20.net/compendium/dnd5e/Ape#content) (4) - [Giant Ape](https://roll20.net/compendium/dnd5e/Giant%20Ape#content)
 * 2 potions of healing (2d4 + 2)
 * Wand of Smiles
 * Scroll of Mending
