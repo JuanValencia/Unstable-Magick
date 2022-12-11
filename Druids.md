@@ -19,7 +19,7 @@
 
 4. Druid + [Apes](https://roll20.net/compendium/dnd5e/Ape#content) (4) - [Giant Ape](https://roll20.net/compendium/dnd5e/Giant%20Ape#content)
 * 2 potions of healing (2d4 + 2)
-* Wand of Smiles
+* [Wand of Smiles](http://dnd5e.wikidot.com/wondrous-items:wand-of-smiles)
 * Scroll of Mending
 * Scroll of Jump
 * Cursed ring of fire resistance (feel extra cold all the time)
