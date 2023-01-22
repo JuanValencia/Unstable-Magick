@@ -72,7 +72,7 @@ The settlement is booming however and there are kids everywhere. There are farms
 * Some people who've gone North tell of druids in the mountains.
 #### Quests
 
-### Ratna Chofa Vaprikt (m) - Armorer
+### Ratna Chofa Vaprikt (m) - Mage, halfling
 * I hear there's a blacksmith of some skill that landed in Land's End, the new place in the dense woods. I bet it's all hogwash... [sweating]
 #### Rumors
 #### Quests
