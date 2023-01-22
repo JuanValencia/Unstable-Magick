@@ -13,7 +13,7 @@ The settlement is booming however and there are kids everywhere. There are farms
 * [Monsters at the Farms](Monsters at the Farms)
 * (Later) - Gilon is causing problems, quietly take him out.
 
-### Albert Ironstone (m) - Blacksmith, quiet
+### Albert Ironstone (m) - Armorsmith, quiet
 #### Rumors
 * I hear there's a blacksmith of some skill that landed in Land's End, the new place in the dense woods. I bet it's all hogwash... [sweating]
 * The halflings used to have iron coming down to us, but it dried up awhile ago.
