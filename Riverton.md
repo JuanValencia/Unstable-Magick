@@ -77,3 +77,6 @@ The settlement is booming however and there are kids everywhere. There are farms
 #### Rumors
 #### Quests
 * Need a mage partner (Magic Gear, 1 comissioned piece)
+* 
+
+### Matthelm (M) - weaponsmith
