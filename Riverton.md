@@ -33,7 +33,7 @@ The settlement is booming however and there are kids everywhere. There are farms
 #### Quests
 * Find a way to make the farms more productive (beyond monsters) (50% of on provisions)
 
-### Derrek Jonno (m) - farm 1
+### Derrek Jonno (m) - Cartographer
 #### Rumors
 #### Quests
 
