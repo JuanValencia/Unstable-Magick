@@ -11,3 +11,13 @@ Favio is a hot-head, literally. He has devoted himself to the study of the plane
 Katarina is amorphous. Vain like her sister Claire, she does not realize she is not pretty at all. She studies the plane of water, calling forth beings from the waves as easily as wizards cast cantrips. She can call water out of the air, create ice, and bring copious amounts of water to bear in any situation.
 
 All of these greater beholders employ beholders and spectators to do their bidding and act as their messangers.
+
+# Party
+
+As our party grew in stature, the greater beholders watched, each picking a test subject.
+
+Favio, being rash, just grabbed the one who seemed the most like fire. Dhariyush was a perfect subject in many ways, wanting to be more attuned to fire.  Favio wanted to see how far he could manipulate the plane of fire into a specific being, perhaps using it to undermine his sibling's work.
+
+Katarina and Claire noted Favio's work and wanted to counter his manipulations. They chose Eletha due to her antagonistic relationship with Dhariyush at times.
+
+Grom took a while longer to decide and kept his workings secret... at least, for now.
