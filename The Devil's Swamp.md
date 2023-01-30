@@ -2,7 +2,7 @@ Evil races
 
 Coranton Dilambra, a elite drow elf warrior from a no-name house found a home in the swamps outside Riverton. When ripped from the underdark, he had been entrusted by Zandiil, a great necromancer, with an Amulet of the dead.  In this new world, Coranton has found many uses as he has consolidated a great drow army strengthened by the undead in the middle of Devil's Swamp.
 
-(https://www.dndadventure.com/html/magic_items/mi_amulet_of_the_dead.html)
+[Amulet of the Dead](https://www.dndadventure.com/html/magic_items/mi_amulet_of_the_dead.html)
 
 ```
 Abilities: the amulet is made of 3 separate parts, left, right, and the gem stone. Each have their own powers and when put all together create a 4th power. It is made from an unkown smooth stone with a quartz like gem in its center.
