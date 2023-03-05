@@ -6,6 +6,8 @@
 
 [Banding Together](Banding Together)
 
+[Experimentation](Experimentation)
+
 # Act I ([Levels](Levels) 1-5)
 The Landing (Map)
 
