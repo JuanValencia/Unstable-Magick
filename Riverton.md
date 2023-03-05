@@ -12,6 +12,16 @@ The settlement is booming however and there are kids everywhere. There are farms
 #### Quests
 * [Monsters at the Farms](Monsters at the Farms)
 * (Later) - Gilon is causing problems, quietly take him out.
+* 
+
+### The were-bunch
+Beholders are experimenting on those in town -- they don't know why, they are ashamed of it.  "I fear Only the divine can help us"
+* Albert: Bear (of a man)
+* Julia: Tigress
+* Jory: wolf
+* Gretta: Boar
+* Jim: Rat
+The cursed cathedral
 
 ### Albert Ironstone (m) - Armorsmith, quiet
 #### Rumors
