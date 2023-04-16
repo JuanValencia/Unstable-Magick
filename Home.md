@@ -53,3 +53,4 @@ The Southern Isles
 * [Encounters](https://koboldplus.club/)
 * [Sides](Sides)
 * [Unstable](https://chartopia.d12dev.com/chart/561/)
+* [CR](https://donjon.bin.sh/5e/calc/enc_size.html)
