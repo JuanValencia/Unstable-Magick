@@ -13,10 +13,6 @@ The Landing (Map)
 
 [<img src="https://juanvalencia.github.io/Unstable-Magick/img/landing.png">]
 
-# Act II ([Levels](Levels) 6-10)
-
-[<img src="https://juanvalencia.github.io/Unstable-Magick/img/Keyzun1.jpg">]
-
 ## The Landing Locations
 [Land's End](Land's End)
 
@@ -44,6 +40,22 @@ The Hot Lonely Mountain
 The Northern Isles
 
 The Southern Isles
+
+# Act II ([Levels](Levels) 6-10)
+
+[<img src="https://juanvalencia.github.io/Unstable-Magick/img/Keyzun1.jpg">]
+
+[Keyzun](Keyzun)
+[A'Ethel](A'Ethel)
+[Ancient A'lara](Ancient A'lara)
+[Girk Forest](Girk Forest)
+[The Great Food Belt](The Great Food Belt)
+[Sal'Heim Wilderness](Sal'Heim Wilderness)
+[Thel'Heim Sea](Thel'Heim Sea)
+[Thel'Girk Sea](Thel'Girk Sea)
+[Fae Sea](Fae Sea)
+[Broken Seas](Broken Seas)
+[Coral Bay](Coral Bay)
 
 # Links
 
