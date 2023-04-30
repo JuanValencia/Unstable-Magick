@@ -46,15 +46,25 @@ The Southern Isles
 [<img src="https://juanvalencia.github.io/Unstable-Magick/img/Keyzun1.jpg">]
 
 [Keyzun](Keyzun)
+
 [A'Ethel](A'Ethel)
+
 [Ancient A'lara](Ancient A'lara)
+
 [Girk Forest](Girk Forest)
+
 [The Great Food Belt](The Great Food Belt)
+
 [Sal'Heim Wilderness](Sal'Heim Wilderness)
+
 [Thel'Heim Sea](Thel'Heim Sea)
+
 [Thel'Girk Sea](Thel'Girk Sea)
+
 [Fae Sea](Fae Sea)
+
 [Broken Seas](Broken Seas)
+
 [Coral Bay](Coral Bay)
 
 # Links
