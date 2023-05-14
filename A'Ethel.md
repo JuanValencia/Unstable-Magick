@@ -4,5 +4,7 @@ Alara has gone missing.
 
 Mortimer is working with Abe's twin brother to try to re-establish the city (under his rule/ Abe's bro secretly wants the same).
 
+Planar teleportation staff is in WISE's treasure room. Mortimer wants you to go there to search for the font-key.  The archive warehouses are full of demons that were let loose from unstable magic.
+
 
 
