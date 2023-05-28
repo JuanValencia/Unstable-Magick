@@ -75,3 +75,6 @@ As you approach the village the road grows wider and more well trodden, compared
 * Cormin grandfound (M Guard)
 * Yennes reedheart (F Guard)
 * Erpher earthmane (M Guard)
+* 
+
+Necklace Detection and lOCATION
