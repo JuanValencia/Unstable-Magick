@@ -51,7 +51,7 @@ He is currently experimenting with potion making and may have additional [random
 |Very Rare |   13-18 |
 |Legendary  |  19+ |
 
-## Gem dwoemer mushrooms
+### Gem dwoemer mushrooms
 * mini-minion has 1 hp and can cast 1 of 2 cantrips
 * advanced minion has 10hp and can cast 1 of 4 cantrips, or 1 spell.
 * techno-minion has 25hp, and can have 8 cantrips, or 1 lvl 3 spell, or 2 lvl 2 spells, or 3 lvl 1 spells
