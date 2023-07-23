@@ -51,6 +51,31 @@ He is currently experimenting with potion making and may have additional [random
 |Very Rare |   13-18 |
 |Legendary  |  19+ |
 
+## Gem dwoemer mushrooms
+* mini-minion has 1 hp and can cast 1 of 2 cantrips
+* advanced minion has 10hp and can cast 1 of 4 cantrips, or 1 spell.
+* techno-minion has 25hp, and can have 8 cantrips, or 1 lvl 3 spell, or 2 lvl 2 spells, or 3 lvl 1 spells
+
+@lvl 3, 4 mini-minions 2 cantrip each
+
+@lvl5, +2 Advanced minions, 4 cantrips or 1 spell
+
+@lvl7, +1 mini-minion
+
+@lvl9 +1 Advanced minion
+
+@lvl11, Upgrade 1 mini (3 mini, 4 advanced)
+
+@lvl 13, +1 Techno-minion, (8 cantrips, 1 lvl 3, or 2...)
+
+@lvl 15, +1 Techno-minion (3 mini, 4 med, 2 techno)
+
+@lvl 17, Upgrade 2 minis, into med (1 mini, 6 med, 2 techno)
+
+@lvl 19, Upgrade 2 advanced into techno (1 mini, 4 med, 4 techno)
+
+When shifting, can't use minions, but gets 4 buffs: 2AC, 1d4 to saving throws and ability checks, and Gem claws (1d4 scaled) to attack.
+
 ## Eletha
 She has a special relationship with the Orcs. She knows their ways and trusts them. Grock and Zhora are particularly good friends, and due to her familiarity with Orcs, has advantage in dealing with them.  The Orcs have a natural & supernatural affinity for the magick of the world. They shun the dwoemercraft from [A'Ethel](A'Ethel) as unnatural, though they do not know why.  Once [The Great Pull](The Great Pull) happens, they are committed to destroying they city and what they believe is the source of the calamity that followed.  They want Eletha to join them in that task.
 
