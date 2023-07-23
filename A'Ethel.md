@@ -8,6 +8,8 @@ The capital city of A'Ethel is the cultural center of the empire. In this time o
 * Pressie Lutenmier - Dwarven female with Spunk! Works at the market and sells very fine magical items. She both has scavengers and does refinement work. Not cheap and she will try to swindle you! Likes to drink and gamble which could give the party an easier time.
 * Lief Eldersong - Elven high elf specializing in scrolls and magical items. Very haughty. Very expensive unless you are noble in which case, just expensive.
 * Bob Smiles - Human male. Friendly and unassuming.  Has lots of armor, he's an excellent smith and employs a variety of humans and dwarves. Makes +1 items, could make +2 but would require time, money, and graphite/silver/gold/steel/mithril, etc.
+* "Gale" - Female Tiefling adventurer for hire. Acrobatic dare devil fighter w/ double two handed attack. +4 to hit 1d6 + 4 (x4). 50% chance to dodge physical damage. Weapons deal magical damage.
+* "Gorgeous" - Eladrin female. 200% devoted to nature and magick. Hates Dweomers. Hates Warlocks. Will join with the right motivation.  Any elemental magick is hers for Lvl 7 slots: 4  3  3  1
 
 ## Research Lab
 The research lab is the hub of unstable magick.  There is a slot for the font-key on each  of 3 major pillars.  They must be deactivated in order to shut off the crazy magick.  Left, Right, Middle.  Only Alara knows this.  There are wonderous items being researched here, but they are all affected by instability.
