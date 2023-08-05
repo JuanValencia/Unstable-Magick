@@ -18,6 +18,16 @@ The research lab is the hub of unstable magick.  There is a slot for the font-ke
 
 ## Treasury
 An accident filled the treasury with Daemons.
+```
+############################
+#                   #   #  #
+# D #  C #  B  # G      #  #
+###### ###     ## ##########
+#        ### ###    #    # #
+#  E     #  A  #   F     # #
+###########  ###############
+```
+A: Main Entry, B: Receiving Lobby, C: Backoffice, E: Library, D: Vault (Fake), G: Magical Archives / Hidden Vault, F: Accounting / Money Vault (Trapped & Keyed)
 
 ## Market
 Filled with the overflow from the city. Some very nice items can be found here, but it takes some digging and time given the disarray.
