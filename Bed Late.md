@@ -27,3 +27,5 @@ requires attunement
 ## Quests
 ### Road Closures
 The road to Pollucks towns are closed. The giants have gone nuts! They are attacking any travelers and have even been raiding Pollucks.  Soldiers from Fort Thel'Girk have been called in to monitor traffic and keep people from going further.
+
+Commander Jane Arden has been stationed at a barrier in the passes leading through.  She's a tough nut who's all about duty.  Only people with a direct order from General Bigfoot can pass. The general is likely at Fort Thel'Girk.
