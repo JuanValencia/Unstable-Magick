@@ -25,3 +25,9 @@ In the centralmost part of the continent is the great food belt that supplies al
 [Mid Pollucks](Mid Pollucks)
 
 [South Polluck](South Polluck)
+
+[Giant Town](Giant Town)
+
+[Goliath Tribes](Goliath Tribes)
+
+[Frozen Palace](Frozen Palace)
