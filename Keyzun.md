@@ -13,9 +13,9 @@ In the centralmost part of the continent is the great food belt that supplies al
 <img src="https://juanvalencia.github.io/Unstable-Magick/krita.png">
 
 [Fort ThelGirk](Fort ThelGirk)
-[]()
-[]()
-[]()
-[]()
-[]()
+[Early Rise](Early Rise)
+[Bed Late](Bed Late)
+[8 Towns](8 Towns)
+[North](North)
+[Mid]()
 []()
