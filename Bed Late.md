@@ -23,3 +23,7 @@ Properties:
 requires attunement
 
 [source](https://mythical.ink/rpg-tools/dnd-item-list?page=1&minItemCosts=0&maxItemCosts=165000&searchTerm=flying&selectedCategories=%5B%5D&selectedSources=%5B%5D&selectedRarities=%5B%5D&starredItemsOnly=0)
+
+## Quests
+### Road Closures
+The road to Pollucks towns are closed.  Soldiers from 
