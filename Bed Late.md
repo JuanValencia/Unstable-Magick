@@ -26,4 +26,4 @@ requires attunement
 
 ## Quests
 ### Road Closures
-The road to Pollucks towns are closed.  Soldiers from 
+The road to Pollucks towns are closed. The giants have gone nuts! They are attacking any travelers and have even been raiding Pollucks.  Soldiers from Fort Thel'Girk have been called in to monitor traffic and keep people from going further.
