@@ -11,3 +11,5 @@ To the southeast lies the ancient parts of the world.  Most stories have all of 
 In the centralmost part of the continent is the great food belt that supplies all the people of Keyzun with food aplenty, and ultimately the armies of Keyzun keep the encroaching wilderness at bay.
 
 <img src="https://juanvalencia.github.io/Unstable-Magick/krita.png">
+
+[Fort Thel`Girk](Fort Thel`Girk)
