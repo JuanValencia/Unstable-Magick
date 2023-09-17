@@ -1,5 +1,4 @@
 
-
 ## Doolittle's Inn
 
 ## Two Worlds Shop of Curios
@@ -18,3 +17,7 @@ Flame Tongue Dagger - You can use a bonus action to speak this magic dagger's co
 Dagger of Venom - You gain a +1 bonus to attack and damage rolls made with this magic weapon. You can use an action to cause thick, black poison to coat the blade. The poison remains for 1 minute or until an attack using this weapon hits a creature. That creature must succeed on a DC 15 Constitution saving throw or take 2d10 poison damage and become poisoned for 1 minute. The dagger can't be used this way again until the next dawn. (5k)
 
 Periapt of Wound Closure / Health / Proof Against Poison (5k)
+
+Gloves of Missile Snaring - (3k)  These gloves seem to almost meld into your hands when you don them. When a ranged weapon attack hits you while you're wearing them, you can use your reaction to reduce the damage by 1d10 + your Dexterity modifier, provided that you have a free hand. If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in that hand.
+Properties:
+requires attunement
