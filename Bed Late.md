@@ -20,3 +20,5 @@ Periapt of Wound Closure / Health / Proof Against Poison (5k)
 Gloves of Missile Snaring - (3k)  These gloves seem to almost meld into your hands when you don them. When a ranged weapon attack hits you while you're wearing them, you can use your reaction to reduce the damage by 1d10 + your Dexterity modifier, provided that you have a free hand. If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in that hand.
 Properties:
 requires attunement
+
+https://mythical.ink/rpg-tools/dnd-item-list?page=1&minItemCosts=0&maxItemCosts=165000&searchTerm=flying&selectedCategories=%5B%5D&selectedSources=%5B%5D&selectedRarities=%5B%5D&starredItemsOnly=0
