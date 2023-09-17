@@ -1,4 +1,5 @@
-## Doolittle's Inn
+## Do Little Inn
+Bok Tor - Goliath who has gone civil. He runs the inn, but is fairly lazy. He just puts walls together and rents the rooms out for cheap. He serves massive meals though.  Has a lot of animals he takes care of.
 
 ## Two Worlds Shop of Curios
 Dora Smallwood (Halfling woman, 15) Making a name for herself quickly as a collector of curiosities.
