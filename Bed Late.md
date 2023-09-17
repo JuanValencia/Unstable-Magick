@@ -21,4 +21,4 @@ Gloves of Missile Snaring - (3k)  These gloves seem to almost meld into your han
 Properties:
 requires attunement
 
-[https://mythical.ink/rpg-tools/dnd-item-list?page=1&minItemCosts=0&maxItemCosts=165000&searchTerm=flying&selectedCategories=%5B%5D&selectedSources=%5B%5D&selectedRarities=%5B%5D&starredItemsOnly=0](source)
+[source](https://mythical.ink/rpg-tools/dnd-item-list?page=1&minItemCosts=0&maxItemCosts=165000&searchTerm=flying&selectedCategories=%5B%5D&selectedSources=%5B%5D&selectedRarities=%5B%5D&starredItemsOnly=0)
