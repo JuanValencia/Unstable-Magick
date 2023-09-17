@@ -29,6 +29,9 @@ An accident filled the treasury with Daemons.
 ```
 A: Main Entry, B: Receiving Lobby, C: Backoffice, E: Library, D: Vault (Fake), G: Magical Archives / Hidden Vault, F: Accounting / Money Vault (Trapped & Keyed)
 
+## The Hall of Magic
+A massive round hall with helpful runes inscribed on a large floor. Guarded by magic suits of armor, the Hall is off-limits to those who are not directly admitted through either WISE or the Arch-mage's office.
+
 ## Market
 Filled with the overflow from the city. Some very nice items can be found here, but it takes some digging and time given the disarray.
 
