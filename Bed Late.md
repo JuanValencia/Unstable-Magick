@@ -1,10 +1,9 @@
-
 ## Doolittle's Inn
 
 ## Two Worlds Shop of Curios
 Dora Smallwood (Halfling woman, 15) Making a name for herself quickly as a collector of curiosities.
 
-Potion of flying
+Potion of flying (500)
 
 Ring of Animal Influence (4k) - This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 of its charges to cast one of the following spells:
 
