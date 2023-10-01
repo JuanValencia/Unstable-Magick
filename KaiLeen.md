@@ -16,6 +16,13 @@ Half Orc - intelligent shrewd pirate captain made city leader. Tough, and disarm
 
 Young maiden, who looks innocent but isn't, half elf wispish. Serves in Jarl's house as spy and assassin.
 
+### Blind Okenfelda (half dwarven trickster)
+
+She engages in games of chance (dice) and invites travelers along:
+
+2 rolls: First for actual dice roll quality d20. Second, for skill below.  Okenfelda chooses an opposing skill action based on a d4 and gets advantage on deception and performance. On a 15 or above, she may load the dice and get a 20 instead. Available 1 time per her gaming session.
+Insight, Deception, Intimidation, Performance
+
 ### Ruffians, Jayke, Moira, Missa, and Took
 
 Hang around Jarl's household
