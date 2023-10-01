@@ -43,7 +43,7 @@ The Southern Isles
 
 # Act II ([Levels](Levels) 6-10)
 
-<img src="https://juanvalencia.github.io/Unstable-Magick/img/Keyzun1.jpg">
+<img src="https://juanvalencia.github.io/Unstable-Magick/krita.png">
 
 [Keyzun](Keyzun)
 
