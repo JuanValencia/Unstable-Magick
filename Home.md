@@ -69,6 +69,8 @@ The Southern Isles
 
 [KaiLeen](KaiLeen)
 
+[Frozen Palace](Frozen Palace)
+
 # Links
 
 * [Names](https://www.fantasynamegenerators.com/dnd-elf-names.php)
