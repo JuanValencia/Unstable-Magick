@@ -1,6 +1,6 @@
 ### **A Royal Summons:**
 
-The party, currently residing as guests in the frozen palace of the storm giants, receives an unexpected yet grand summons from the Storm Giant King or Queen. The ruling monarchs, having heard of the adventurers' brave deeds and their quest involving the mysterious beholder's gem, are intrigued by these foreign heroes. They present the party with a formidable challenge: to venture into the depths beneath the palace and retrieve a legendary artifact known as the "Frostfire Amulet."
+The party, currently residing as guests in the frozen palace of the storm giants, receives an unexpected yet grand summons from Ogmuth, King of Storm Giants. The ruling monarch is intrigued by these foreign heroes. They present the party with a formidable challenge: to venture into the depths beneath the palace and retrieve a legendary artifact known as the "Frostfire Amulet," which will allow the Frost Giants to stabilize their magic more fully and keep other giant kind from coming into their territories. In exchange the party will receive the [Beholder's Gem](Beholder's Gem) which Alara wants to study.
 
 ### **Main Quest:**
 
@@ -14,7 +14,7 @@ This ancient labyrinth was created by a legendary mage, renowned for their maste
     
 2. **Giant's Dilemma:** Inside the palace, there's a brewing conflict among the giants. A faction led by Frosthild the Peacemaker sees the humans as potential allies in the struggle against the beholders. In contrast, Blazemore the Skeptic and his followers are wary of any alliance with humans. The party's success or failure in navigating the labyrinth and their actions within could tip this delicate balance.
     
-3. **Unseen Eyes:** Unbeknownst to the adventurers, their journey through the labyrinth is being closely monitored by an ice beholder from the elemental plane. This beholder, Frosteye the Chiller, is intrigued by their progress and awaits the opportune moment to reveal itself, potentially altering the course of the party's adventure.
+3. **Unseen Eyes:** Unbeknownst to the adventurers, their journey through the labyrinth is being closely monitored by an ice beholder from the elemental plane. This beholder, [Frosteye the Chiller](Frosteye the Chiller), is intrigued by their progress and awaits the opportune moment to reveal itself, potentially altering the course of the party's adventure.
     
 
 ### **Challenges:**
