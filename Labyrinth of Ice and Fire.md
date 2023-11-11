@@ -66,3 +66,53 @@ The true intentions of the beholder are to manipulate the party into eliminating
 |                                                    |
 +----------------------------------------------------+
 ```
+
+### Enemies
+### Frostfire Elemental (CR 5)
+
+- **Armor Class**: 16 (Natural Armor)
+- **Hit Points**: 95 (10d10 + 40)
+- **Speed**: 30 ft.
+
+|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+|---|---|---|---|---|---|
+|16 (+3)|12 (+1)|18 (+4)|6 (-2)|10 (+0)|7 (-2)|
+
+- **Damage Resistances**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
+- **Damage Immunities**: Fire, Cold
+- **Condition Immunities**: Poisoned, Exhaustion
+- **Senses**: Darkvision 60 ft., Passive Perception 10
+- **Languages**: Understands Ignan and Aquan but doesn't speak
+- **Challenge**: 5 (1,800 XP)
+
+#### Actions
+
+- **Multiattack**: The Frostfire Elemental makes two attacks: one with its Flame Fist and one with its Ice Claw.
+- **Flame Fist**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) fire damage.
+- **Ice Claw**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) cold damage.
+- **Elemental Shift**: When hit by an attack, the Frostfire Elemental can switch its core to the opposite element, becoming immune to the damage type it was hit with until the end of its next turn.
+
+### Rime Wraith (CR 5)
+
+- **Armor Class**: 13 (Incorporeal Movement)
+- **Hit Points**: 67 (9d8 + 27)
+- **Speed**: 0 ft., fly 50 ft. (hover)
+
+|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+|---|---|---|---|---|---|
+|6 (-2)|16 (+3)|16 (+3)|12 (+1)|14 (+2)|15 (+2)|
+
+- **Damage Resistances**: Acid, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
+- **Damage Immunities**: Cold, Poison
+- **Condition Immunities**: Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
+- **Senses**: Darkvision 60 ft., Passive Perception 12
+- **Languages**: Common (can't speak, telepathy 60 ft.)
+- **Challenge**: 5 (1,800 XP)
+
+#### Actions
+
+- **Life Drain**: Melee Spell Attack: +5 to hit, reach 5 ft., one creature. Hit: 21 (6d6) necrotic damage. The target must succeed on a DC 15 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest.
+- **Chilling Mist**: The Rime Wraith exhales a 15-foot cone of frost. Each creature in that area must make a DC 15 Dexterity saving throw, taking 22 (4d10) cold damage on a failed save, or half as much damage on a successful one.
+- **Incorporeal Movement**: The Rime Wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+
+These stat blocks offer diverse combat experiences, with the Frostfire Elemental challenging the party's damage type strategy and the Rime Wraith testing their ability to handle incorporeal and life-draining foes.
