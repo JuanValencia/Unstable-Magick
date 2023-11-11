@@ -23,7 +23,7 @@ This ancient labyrinth was created by a legendary mage, renowned for their maste
     
 - **Labyrinth Guardians:** The maze is guarded by formidable creatures such as ice golems, fire elementals, and perhaps a unique mini-boss, like a creature born from the union of frost and flame.
     
-- **The Amulet's Test:** Upon reaching the Frostfire Amulet, the party will be subjected to a final test. This could be a moral dilemma, a test of character, or a complex magical puzzle, designed to assess whether they are worthy of wielding the amulet's power.
+- **[The Amulet's Test](The Amulet's Test):** Upon reaching the Frostfire Amulet, the party will be subjected to a final test. This could be a moral dilemma, a test of character, or a complex magical puzzle, designed to assess whether they are worthy of wielding the amulet's power.
     
 
 ### **Climax:**
