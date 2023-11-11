@@ -1,3 +1,7 @@
+## Quest: A Royal Summons:
+
+The party, currently residing as guests in the frozen palace of the storm giants, receives an unexpected yet grand summons from Ogmuth, King of Storm Giants. The ruling monarch is intrigued by these foreign heroes. They present the party with a formidable challenge: to venture into the depths beneath the palace and retrieve a legendary artifact known as the "Frostfire Amulet," which will allow the Frost Giants to stabilize their magic more fully and keep other giant kind from coming into their territories. In exchange the party will receive the Beholder's Gem which Alara wants to study.
+
 ## Storm Giant Throne
 
 Behind the throne is the [Labyrinth of Ice and Fire](Labyrinth of Ice and Fire)
