@@ -12,7 +12,7 @@ This ancient labyrinth was created by a legendary mage, renowned for their maste
 
 1. **The Beholder's Gem:** Alara, the archmage, believes there's a deeper connection between the labyrinth, the Frostfire Amulet, and the beholder's magic. She hypothesizes that the amulet might hold crucial information about the beholder's gem in the party's possession, which could be pivotal in their quest.
     
-2. **Giant's Dilemma:** Inside the palace, there's a brewing conflict among the giants. A faction led by Frosthild the Peacemaker sees the humans as potential allies in the struggle against the beholders. In contrast, Blazemore the Skeptic and his followers are wary of any alliance with humans. The party's success or failure in navigating the labyrinth and their actions within could tip this delicate balance.
+2. **[Giant's Dilemma](Giant's Dilemma):** Inside the palace, there's a brewing conflict among the giants. A faction led by Frosthild the Peacemaker sees the humans as potential allies in the struggle against the beholders. In contrast, Blazemore the Skeptic and his followers are wary of any alliance with humans. The party's success or failure in navigating the labyrinth and their actions within could tip this delicate balance.
     
 3. **Unseen Eyes:** Unbeknownst to the adventurers, their journey through the labyrinth is being closely monitored by an ice beholder from the elemental plane. This beholder, [Frosteye the Chiller](Frosteye the Chiller), is intrigued by their progress and awaits the opportune moment to reveal itself, potentially altering the course of the party's adventure.
     
