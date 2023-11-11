@@ -39,3 +39,29 @@ The other elemental beholders are planning to use the instability in magic to th
 I propose an alliance. With my guidance and your abilities, we can thwart their plans and ensure peace. Remember, the fate of both our worlds now lies in balance. Will you join me in this crucial endeavor?"
 
 The true intentions of the beholder are to manipulate the party into eliminating its rivals among the other elemental beholders. This beholder aims to consolidate power and control over the elemental planes by using the adventurers as pawns to weaken or remove other beholders who pose a threat to its dominance. The beholder's ultimate goal is to emerge as the supreme entity among its kind, wielding unchallenged control over the elemental magic and potentially extending its influence over the party's world as well. The offer of an alliance and the pretense of seeking balance and harmony are merely strategic deceptions to achieve these ends.
+
+## Map
+
++----------------------------------------------------+
+|                                                    |
+|  Entrance                                          |
+|    |                                               |
+|    V                                               |
+|  [Room 1: Elemental Puzzle 1] -----> [Enemy Room 1]|
+|    |                       ^                       |
+|    |                       |                       |
+|  [Room 2: Elemental Puzzle 2]                      |
+|    |                                               |
+|    V                                               |
+|  [Armory of Elemental Aids]                        |
+|    |                                               |
+|    V                                               |
+|  [Room 3: Elemental Puzzle 3] -----> [Enemy Room 2]|
+|    |                       ^                       |
+|    |                       |                       |
+|  [Room 4: Elemental Puzzle 4]                      |
+|    |                                               |
+|    V                                               |
+|  [Chamber of the Frostfire Amulet]                 |
+|                                                    |
++----------------------------------------------------+
