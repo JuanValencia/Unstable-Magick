@@ -47,18 +47,18 @@ The true intentions of the beholder are to manipulate the party into eliminating
 |  Entrance                                          |
 |    |                                               |
 |    V                                               |
-|  [Room 1: Elemental Puzzle 1] -----> [Enemy Room 1]|
-|    |                       ^                       |
-|    |                       |                       |
-|  [Room 2: Elemental Puzzle 2]                      |
-|    |                                               |
-|    V                                               |
 |  [Armory of Elemental Aids]                        |
 |    |                                               |
 |    V                                               |
+|  [Room 1: Elemental Puzzle 1] -----> [Enemy Room 1]|
+|    |                                               |
+|    |                                               |
+|  [Room 2: Elemental Puzzle 2]                      |
+|    |                                               |
+|    V                                               |
 |  [Room 3: Elemental Puzzle 3] -----> [Enemy Room 2]|
-|    |                       ^                       |
-|    |                       |                       |
+|    |                                               |
+|    |                                               |
 |  [Room 4: Elemental Puzzle 4]                      |
 |    |                                               |
 |    V                                               |
