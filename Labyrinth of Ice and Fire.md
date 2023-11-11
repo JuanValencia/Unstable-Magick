@@ -19,7 +19,7 @@ This ancient labyrinth was created by a legendary mage, renowned for their maste
 
 ### **Challenges:**
 
-- **Elemental Puzzles:** The labyrinth will test the party's intelligence and creativity, as they must solve complex puzzles that require manipulating both fire and ice, often under pressing time constraints.
+- **[Elemental Puzzles](Elemental Puzzles):** The labyrinth will test the party's intelligence and creativity, as they must solve complex puzzles that require manipulating both fire and ice, often under pressing time constraints.
     
 - **[Labyrinth Guardian](Labyrinth Guardian):** The maze is guarded by formidable creatures such as ice golems, fire elementals, and perhaps a unique mini-boss, like a creature born from the union of frost and flame.
     
