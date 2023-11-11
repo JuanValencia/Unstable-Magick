@@ -41,7 +41,7 @@ I propose an alliance. With my guidance and your abilities, we can thwart their 
 The true intentions of the beholder are to manipulate the party into eliminating its rivals among the other elemental beholders. This beholder aims to consolidate power and control over the elemental planes by using the adventurers as pawns to weaken or remove other beholders who pose a threat to its dominance. The beholder's ultimate goal is to emerge as the supreme entity among its kind, wielding unchallenged control over the elemental magic and potentially extending its influence over the party's world as well. The offer of an alliance and the pretense of seeking balance and harmony are merely strategic deceptions to achieve these ends.
 
 ## Map
-
+`
 +----------------------------------------------------+
 |                                                    |
 |  Entrance                                          |
@@ -65,3 +65,4 @@ The true intentions of the beholder are to manipulate the party into eliminating
 |  [Chamber of the Frostfire Amulet]                 |
 |                                                    |
 +----------------------------------------------------+
+`
