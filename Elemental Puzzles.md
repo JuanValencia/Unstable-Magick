@@ -28,6 +28,18 @@
 
 **Objective**: Solve each mini-puzzle, which alternates between requiring cooling a too-hot object or melting an iced-over mechanism.
 
+    The Frostflame Door: This door has a pattern of flames carved into one half and frost on the other. To open it, the party must simultaneously apply heat to the icy part and cool down the fiery part, balancing the extremes.
+
+    The Steam Vent Door: A door with vents emitting both cold air and steam. The party needs to adjust the vents so that the steam and cold air mix evenly, creating a moderate temperature that unlocks the door.
+
+    The Ice-Fire Maze Door: This door shows a small maze with paths covered in ice and barriers of flame. The party must navigate a miniature maze, melting ice and extinguishing flames to find the path to the keyhole.
+
+    The Thermal Shift Door: A door that alternates between being extremely hot and extremely cold. The party must time their interaction with the door, possibly using spells or items to protect themselves, to turn the handle when it’s at a bearable temperature.
+
+    The Glacier Inferno Door: A door encased in a block of ice with a fiery core visible inside. The challenge is to carefully melt the ice without causing the fire to flare up and become unmanageable, requiring precise control of heat.
+
+    The Cryo-Pyro Puzzle Door: This door is locked with a puzzle that requires the placement of hot and cold elements in a specific pattern. The party must solve the puzzle by determining the correct arrangement of these elements to unlock the door.
+
 **Solution**: The puzzles vary but involve principles of heat transfer and melting/freezing points. The party must use their skills and resources to change the temperature of objects, using ice spells on hot items or fire spells on frozen ones, to progress through the doors.
 
 ### Puzzle 1: The Chamber of Opposites
