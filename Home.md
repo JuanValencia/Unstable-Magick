@@ -9,11 +9,13 @@
 [Experimentation](Experimentation)
 
 # Act I ([Levels](Levels) 1-5)
+
 The Landing (Map)
 
 [<img src="https://juanvalencia.github.io/Unstable-Magick/img/landing.png">]
 
 ## The Landing Locations
+
 [Land's End](Land's End)
 
 [The Boar's Rest](The Boar's Rest)
@@ -27,6 +29,7 @@ The Landing (Map)
 [The Unnamed Desert](The Unnamed Desert)
 
 ### Unnamed locations (Players can name)
+
 Fishing Settlements
 
 The Volcano
@@ -72,13 +75,14 @@ The Southern Isles
 [Frozen Palace](Frozen Palace)
 
 [The Aviary](The Aviary)
+[Spelltastrophe Spellstice](Spelltastrophe Spellstice)
 
 # Links
 
-* [Names](https://www.fantasynamegenerators.com/dnd-elf-names.php)
-* [Creatures](https://www.aidedd.org/dnd-filters/monsters.php)
-* [Maps](https://watabou.itch.io/)
-* [Encounters](https://koboldplus.club/)
-* [Sides](Sides)
-* [Unstable](https://chartopia.d12dev.com/chart/561/)
-* [CR](https://donjon.bin.sh/5e/calc/enc_size.html)
+- [Names](https://www.fantasynamegenerators.com/dnd-elf-names.php)
+- [Creatures](https://www.aidedd.org/dnd-filters/monsters.php)
+- [Maps](https://watabou.itch.io/)
+- [Encounters](https://koboldplus.club/)
+- [Sides](Sides)
+- [Unstable](https://chartopia.d12dev.com/chart/561/)
+- [CR](https://donjon.bin.sh/5e/calc/enc_size.html)
