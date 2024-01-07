@@ -71,6 +71,8 @@ The Southern Isles
 
 [Frozen Palace](Frozen Palace)
 
+[Spelltastrophe Spellstice](Spelltastrophe Spellstice)
+
 # Links
 
 * [Names](https://www.fantasynamegenerators.com/dnd-elf-names.php)
