@@ -29,7 +29,7 @@ Realizing they are stranded until they can find a way back, the adventurers deci
     * Transmutation
     * Charm Magic
     * Rooms:
-    Misfire Maze Rooms and Descriptions
+    ```Misfire Maze Rooms and Descriptions
 
     Whispering Walls Room: The walls are covered in runes that whisper hints, but half of them are misleading. Navigating requires discerning which whispers to trust.
 
@@ -49,7 +49,7 @@ Realizing they are stranded until they can find a way back, the adventurers deci
 
     Upside-Down Library: Books and shelves are upside down, and gravity shifts as one moves through the room. The exit is hidden among the floating books and can be found by solving a puzzle.
 
-    Hall of Fragments: A room filled with floating, fragmented platforms. Jumping between them is necessary to reach the exit, but some platforms disappear or reappear, requiring timing and careful observation.
+    Hall of Fragments: A room filled with floating, fragmented platforms. Jumping between them is necessary to reach the exit, but some platforms disappear or reappear, requiring timing and careful observation.```
 
 * Eldritch Eats Contest: A cooking competition where the ingredients are enchanted (and provided), leading to unpredictable and often amusing results. Each ingredient casts a spell of the same first letter, or closest one.  combining into quite the recipe. Recipes are learned and can be used later (assuming you have the right ingredients)
 * Arcane Athletics: A series of sports where normal physical laws are altered by magic, requiring participants to adapt quickly to changing conditions. 50% random magic table. The randomness can be embraced, and ultimately controlled.  Can permanently choose an ability used, to become a new ability with the modified props.
