@@ -28,6 +28,28 @@ Realizing they are stranded until they can find a way back, the adventurers deci
     * Enchantment
     * Transmutation
     * Charm Magic
+    * Rooms:
+    *Misfire Maze Rooms and Descriptions
+
+    Whispering Walls Room: The walls are covered in runes that whisper hints, but half of them are misleading. Navigating requires discerning which whispers to trust.
+
+    Gravity-Flux Chamber: The gravity in this room unpredictably changes, sometimes pulling sideways or even upside down. Navigating requires agility and quick thinking.
+
+    Mirror Illusion Room: Filled with mirrors that create disorienting illusions. The exit is hidden behind one of the mirrors, requiring keen observation to find the true path.
+
+    Endless Doorway Room: A room with numerous doors; opening one leads back into the same room. Solving a riddle reveals the correct door to proceed.
+
+    Color Spectrum Hallway: A hallway where stepping on certain colored tiles triggers minor but startling magical effects. The safe path requires recognizing the safe sequence of colors.
+
+    Invisible Maze Room: The walls of the maze are invisible. Navigating through requires careful probing or using objects to reveal the invisible barriers.
+
+    Elemental Shift Room: This room has areas that randomly change elemental properties (fire, ice, wind, earth). Navigating requires adapting to the changing environmental conditions.
+
+    Echoing Void Room: A dark room where sound is greatly amplified. Moving silently is key, as loud noises trigger disorienting echoes that can confuse and mislead.
+
+    Upside-Down Library: Books and shelves are upside down, and gravity shifts as one moves through the room. The exit is hidden among the floating books and can be found by solving a puzzle.
+
+    Hall of Fragments: A room filled with floating, fragmented platforms. Jumping between them is necessary to reach the exit, but some platforms disappear or reappear, requiring timing and careful observation.
 
 * Eldritch Eats Contest: A cooking competition where the ingredients are enchanted (and provided), leading to unpredictable and often amusing results. Each ingredient casts a spell of the same first letter, or closest one.  combining into quite the recipe. Recipes are learned and can be used later (assuming you have the right ingredients)
 * Arcane Athletics: A series of sports where normal physical laws are altered by magic, requiring participants to adapt quickly to changing conditions. 50% random magic table. The randomness can be embraced, and ultimately controlled.  Can permanently choose an ability used, to become a new ability with the modified props.
