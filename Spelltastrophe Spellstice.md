@@ -19,15 +19,15 @@ The town, they learn, is in the midst of celebrating the Spelltastrophe Spellsti
 Realizing they are stranded until they can find a way back, the adventurers decide to immerse themselves in the festivities. They find themselves participating in events like:
 
 * The Misfire Maze: A labyrinth where spells work in odd ways, turning the usual spellcasting into a hilarious challenge. Here, spells tend to mistarget, either having nothing happen, or an alternative target happen.  As you wander the max, you have a chance of finding spell scrolls of know:
-* evocation
-* Abjuration
-* Divination
-* Conjuration
-* Illusion
-* Necromancy
-* Enchantment
-* Transmutation
-* Charm Magic
+    * evocation
+    * Abjuration
+    * Divination
+    * Conjuration
+    * Illusion
+    * Necromancy
+    * Enchantment
+    * Transmutation
+    * Charm Magic
 
 * Eldritch Eats Contest: A cooking competition where the ingredients are enchanted, leading to unpredictable and often amusing results.
 * Arcane Athletics: A series of sports where normal physical laws are altered by magic, requiring participants to adapt quickly to changing conditions.
