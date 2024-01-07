@@ -32,6 +32,27 @@ Realizing they are stranded until they can find a way back, the adventurers deci
 * Eldritch Eats Contest: A cooking competition where the ingredients are enchanted (and provided), leading to unpredictable and often amusing results. Each ingredient casts a spell of the same first letter, or closest one.  combining into quite the recipe. Recipes are learned and can be used later (assuming you have the right ingredients)
 * Arcane Athletics: A series of sports where normal physical laws are altered by magic, requiring participants to adapt quickly to changing conditions. 50% random magic table. The randomness can be embraced, and ultimately controlled.  Can permanently choose an ability used, to become a new ability with the modified props.
 
+# People
+1. Zephyra Windwhistle
+
+    Description: A sprightly gnome with sparkling blue eyes and hair that seems to float as if caught in a gentle breeze. Zephyra is a renowned inventor of magical gadgets. She wears a coat bristling with pockets filled with all manner of trinkets and tools. She's known for her boundless curiosity and is always eager to share her latest inventions.
+
+2. Eldrin Starweaver
+
+    Description: A tall, elegant elf with a calm demeanor and a voice as soothing as the night sky. Eldrin is a master astrologer and diviner, draped in a cloak that mirrors the starlit heavens. He offers to read fortunes and is sought after for his uncannily accurate predictions. His eyes sparkle with a hidden knowledge of the cosmos.
+
+3. Margo “Firefingers” Huxley
+
+    Description: A human pyrotechnician with a flair for the dramatic, Margo sports bright red hair and a mischievous grin. She's known for her spectacular firework displays and her ability to manipulate fire in astonishing ways. Dressed in fire-retardant clothing adorned with flame motifs, she's always surrounded by a crowd eager to see her next performance.
+
+4. Thistle Downfloat
+
+    Description: A halfling bard with a love for storytelling, Thistle has an infectious laugh and a twinkle in her eye. She's dressed in colorful garb, with a lute slung across her back. Thistle is always ready to spin a yarn or break into song, drawing listeners with her captivating tales and merry tunes.
+
+5. Brom Stonefist
+
+    Description: A dwarf alchemist with a gruff exterior but a heart of gold. Brom’s beard is streaked with gray, and his eyes are like chips of flint. He carries an array of potions and alchemical concoctions on his belt. Brom is known for his experimental brews, which range from incredibly potent healing potions to bizarre elixirs with unpredictable effects.
+
 ## The Reason to Celebrate
 
 The party, initially dismayed by their accidental detour, soon find joy and laughter in the chaos of the Spelltastrophe Spellstice. It becomes a welcome respite from their perilous journey, allowing them to bond, enjoy the lighter side of magic, and gather stories and experiences that would be cherished long after their adventure continues. Plus, mingling with the magically adept locals and experiencing the unique phenomena of Spellstice might just give them insights or allies to aid in their quest and in navigating the unstable magic of their world.
