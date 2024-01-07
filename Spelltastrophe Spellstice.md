@@ -29,7 +29,7 @@ Realizing they are stranded until they can find a way back, the adventurers deci
     * Transmutation
     * Charm Magic
     * Rooms:
-    ```Misfire Maze Rooms and Descriptions
+```Misfire Maze Rooms and Descriptions
 
     Whispering Walls Room: The walls are covered in runes that whisper hints, but half of them are misleading. Navigating requires discerning which whispers to trust.
 
