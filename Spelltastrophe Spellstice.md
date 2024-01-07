@@ -18,7 +18,7 @@ The town, they learn, is in the midst of celebrating the Spelltastrophe Spellsti
 
 Realizing they are stranded until they can find a way back, the adventurers decide to immerse themselves in the festivities. They find themselves participating in events like:
 
-* The Misfire Maze: A labyrinth where spells work in odd ways, turning the usual spellcasting into a hilarious challenge. Here, spells tend to mistarget, either having nothing happen, or an alternative target happen.  As you wander the max, you have a chance of finding spell scrolls of know:
+* The Misfire Maze: A labyrinth where spells work in odd ways, turning the usual spellcasting into a hilarious challenge. Here, spells tend to mistarget, either having nothing happen, or an alternative target happen.  As you wander the maze, you have a chance of finding spell scrolls of knowing with misfires: (they can be stolen)
     * evocation
     * Abjuration
     * Divination
@@ -29,8 +29,8 @@ Realizing they are stranded until they can find a way back, the adventurers deci
     * Transmutation
     * Charm Magic
 
-* Eldritch Eats Contest: A cooking competition where the ingredients are enchanted, leading to unpredictable and often amusing results.
-* Arcane Athletics: A series of sports where normal physical laws are altered by magic, requiring participants to adapt quickly to changing conditions.
+* Eldritch Eats Contest: A cooking competition where the ingredients are enchanted (and provided), leading to unpredictable and often amusing results. Each ingredient casts a spell of the same first letter, or closest one.  combining into quite the recipe. Recipes are learned and can be used later (assuming you have the right ingredients)
+* Arcane Athletics: A series of sports where normal physical laws are altered by magic, requiring participants to adapt quickly to changing conditions. 50% random magic table. The randomness can be embraced, and ultimately controlled.  Can permanently choose an ability used, to become a new ability with the modified props.
 
 ## The Reason to Celebrate
 
